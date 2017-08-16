@@ -1,0 +1,2963 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name>YouBike bicycle-sharing stations</name>
+<description>Created by YoutubeKML (http://)</description>
+<Folder>
+<name>Xinyi Dist.</name>
+<Placemark>
+<name>MRT Taipei City Hall Stataion(Exit 3)-2</name>
+<Snippet>The S.W. side of Road Zhongxiao East Road &amp; Road Chung Yan.</Snippet>
+<description>The S.W. side of Road Zhongxiao East Road &amp; Road Chung Yan.</description>
+<Point>
+<coordinates>121.567904444,25.0408578889,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei City Hall</name>
+<Snippet>Taipei City Government Eastgate (Song Zhi Road)</Snippet>
+<description>Taipei City Government Eastgate (Song Zhi Road)</description>
+<Point>
+<coordinates>121.565169444,25.0377972222,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Citizen Square</name>
+<Snippet>The N.W. side of Road Shifu &amp; Road Song Shou.</Snippet>
+<description>The N.W. side of Road Shifu &amp; Road Song Shou.</description>
+<Point>
+<coordinates>121.562325,25.0360361111,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xingya Jr. High School</name>
+<Snippet>The S.E. side of Road Songren &amp; Ln. 95, Songren Rd..</Snippet>
+<description>The S.E. side of Road Songren &amp; Ln. 95, Songren Rd..</description>
+<Point>
+<coordinates>121.5686639,25.0365638889,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>TWTC Exhibition Hall 2</name>
+<Snippet>The N.E. side of Road Song Zhi &amp; Road Song Lian.</Snippet>
+<description>The N.E. side of Road Song Zhi &amp; Road Song Lian.</description>
+<Point>
+<coordinates>121.565658333,25.0347361111,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xinyi Square(Taipei 101)</name>
+<Snippet>The N.E. side of Road Song Zhi &amp; Road Xinyi.</Snippet>
+<description>The N.E. side of Road Song Zhi &amp; Road Xinyi.</description>
+<Point>
+<coordinates>121.565619444,25.0330388889,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>TWTC Exhibition Hall 3</name>
+<Snippet>The S.E. side of Road Shifu &amp; Road Song Shou.</Snippet>
+<description>The S.E. side of Road Shifu &amp; Road Song Shou.</description>
+<Point>
+<coordinates>121.563688889,25.0352138889,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Songde</name>
+<Snippet>No.300, Songde Rd.(32)</Snippet>
+<description>No.300, Songde Rd.(32)</description>
+<Point>
+<coordinates>121.574353,25.03159,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Emergency Operations Center of Taipei City</name>
+<Snippet>No.2, Aly. 11, Ln. 391, Zhuangjing Rd.</Snippet>
+<description>No.2, Aly. 11, Ln. 391, Zhuangjing Rd.</description>
+<Point>
+<coordinates>121.566116667,25.0286611111,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sanchangli</name>
+<Snippet>The S.E. side of Road Guangfu South &amp; Ln. 346, Sec. 1, Keelung Rd.</Snippet>
+<description>The S.E. side of Road Guangfu South &amp; Ln. 346, Sec. 1, Keelung Rd.</description>
+<Point>
+<coordinates>121.55762,25.034937,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei Medical University</name>
+<Snippet>Aly. 59, Ln. 220, Wuxing St.</Snippet>
+<description>Aly. 59, Ln. 220, Wuxing St.</description>
+<Point>
+<coordinates>121.561747,25.026679,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fude Park</name>
+<Snippet>The N.W. side of Road Dadao &amp; St. Fude.</Snippet>
+<description>The N.W. side of Road Dadao &amp; St. Fude.</description>
+<Point>
+<coordinates>121.58367,25.03809,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Songshan Vocational High School</name>
+<Snippet>The S.E. side of St. Linkou &amp; St. Fude.</Snippet>
+<description>The S.E. side of St. Linkou &amp; St. Fude.</description>
+<Point>
+<coordinates>121.579135,25.036084,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhongqiang Park</name>
+<Snippet>No.17, Ln. 153, Songren Rd</Snippet>
+<description>No.17, Ln. 153, Songren Rd</description>
+<Point>
+<coordinates>121.56981,25.02863,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Songshan Rail Sta.</name>
+<Snippet>Bicycle parking lot- West exit in Songshan station</Snippet>
+<description>Bicycle parking lot- West exit in Songshan station</description>
+<Point>
+<coordinates>121.578095,25.048616,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yongji &amp; Songxin Intersection</name>
+<Snippet>The sidewalk- the S.W. side of Songxin Rd. &amp; Yongji Rd.</Snippet>
+<description>The sidewalk- the S.W. side of Songxin Rd. &amp; Yongji Rd.</description>
+<Point>
+<coordinates>121.57205,25.04543,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Wuchang Park</name>
+<Snippet>The S.W side of Songlong Rd. &amp; Hulin St.</Snippet>
+<description>The S.W side of Songlong Rd. &amp; Hulin St.</description>
+<Point>
+<coordinates>121.57467,25.04814,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Houshanpi Sta.(Exit 1)</name>
+<Snippet>The S.W side of Jhongsiao E. Rd. &amp; Jhongpo N. Rd.</Snippet>
+<description>The S.W side of Jhongsiao E. Rd. &amp; Jhongpo N. Rd.</description>
+<Point>
+<coordinates>121.58174,25.04431,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Taipei 101/World Trade Center Sta.</name>
+<Snippet>The S.E. side of Zhuangjing Rd. &amp; Sec. 5, Xinyi Rd.</Snippet>
+<description>The S.E. side of Zhuangjing Rd. &amp; Sec. 5, Xinyi Rd.</description>
+<Point>
+<coordinates>121.561645,25.032752,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Keelung &amp; Guangfu Intersection</name>
+<Snippet>The intersection of Sec. 2, Keelung Rd. &amp; Guangfu S. Rd.</Snippet>
+<description>The intersection of Sec. 2, Keelung Rd. &amp; Guangfu S. Rd.</description>
+<Point>
+<coordinates>121.557635,25.0300508,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Xiangshan Sta.</name>
+<Snippet>The N.W. side of Sec. 5, Xinyi Rd. &amp; Ln. 91, Sec. 5, Xinyi Rd.</Snippet>
+<description>The N.W. side of Sec. 5, Xinyi Rd. &amp; Ln. 91, Sec. 5, Xinyi Rd.</description>
+<Point>
+<coordinates>121.571274,25.032835,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Wu Xing Bus Station.</name>
+<Snippet>The intersection of Songren Rd. &amp; Wuxing St.</Snippet>
+<description>The intersection of Songren Rd. &amp; Wuxing St.</description>
+<Point>
+<coordinates>121.569836,25.023877,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Renai &amp; Yixian Intersection</name>
+<Snippet>Sec. 4, Ren’ai Rd. &amp; Yixian Rd.</Snippet>
+<description>Sec. 4, Ren’ai Rd. &amp; Yixian Rd.</description>
+<Point>
+<coordinates>121.561178,25.037724,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Yongchun Sta. (Exit 2)</name>
+<Snippet>No.420, Sec. 5, Zhongxiao E. Rd.</Snippet>
+<description>No.420, Sec. 5, Zhongxiao E. Rd.</description>
+<Point>
+<coordinates>121.575372,25.040558,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Songde Park</name>
+<Snippet>No.20, Ln. 168, Songde Rd.</Snippet>
+<description>No.20, Ln. 168, Songde Rd.</description>
+<Point>
+<coordinates>121.57343,25.036568,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>SONG-SHAN Senior High School</name>
+<Snippet>No.15, Ln. 172, Sec. 1, Keelung Rd. (opposite)</Snippet>
+<description>No.15, Ln. 172, Sec. 1, Keelung Rd. (opposite)</description>
+<Point>
+<coordinates>121.564108,25.043299,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taihe Park</name>
+<Snippet>No.5, Aly. 67, Ln. 600, Wuxing St. (opposite)</Snippet>
+<description>No.5, Aly. 67, Ln. 600, Wuxing St. (opposite)</description>
+<Point>
+<coordinates>121.571050,25.019296,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Linkou Park</name>
+<Snippet>No.72, Linkou St. (opposite)</Snippet>
+<description>No.72, Linkou St. (opposite)</description>
+<Point>
+<coordinates>121.579146,25.038943,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sanxing Park</name>
+<Snippet>No.28, Aly. 35, Ln. 118, Wuxing St.</Snippet>
+<description>No.28, Aly. 35, Ln. 118, Wuxing St.</description>
+<Point>
+<coordinates>121.559320,25.028679,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Futai Park</name>
+<Snippet>No.209, Songxin Rd.</Snippet>
+<description>No.209, Songxin Rd.</description>
+<Point>
+<coordinates>121.571999,25.041935,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xinyi &amp; Keelung Intersection</name>
+<Snippet>No.401, Sec. 4, Xinyi Rd.</Snippet>
+<description>No.401, Sec. 4, Xinyi Rd.</description>
+<Point>
+<coordinates>121.558731,25.033209,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ln. 101,Sec. 1,Keelung Rd.</name>
+<Snippet>Sec. 1, Keelung Rd. /  Ln. 101, Sec. 1, Keelung Rd. (intersection)</Snippet>
+<description>Sec. 1, Keelung Rd. /  Ln. 101, Sec. 1, Keelung Rd. (intersection)</description>
+<Point>
+<coordinates>121.567090,25.045250,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>@Songyou Park</name>
+<Snippet>No.16, Aly. 2, Ln. 76, Sec. 6, Xinyi Rd.</Snippet>
+<description>No.16, Aly. 2, Ln. 76, Sec. 6, Xinyi Rd.</description>
+<Point>
+<coordinates>121.576360,25.034230,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chunguang Park</name>
+<Snippet>No.721, Sec. 5, Zhongxiao E. Rd.</Snippet>
+<description>No.721, Sec. 5, Zhongxiao E. Rd.</description>
+<Point>
+<coordinates>121.580762,25.042619,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Daan Dist.</name>
+<Placemark>
+<name>MRT S.Y.S Memorial Hall Stataion(Exit 2.)</name>
+<Snippet>Sec,4. Zhongxiao E.Rd/GuangFu S. Rd</Snippet>
+<description>Sec,4. Zhongxiao E.Rd/GuangFu S. Rd</description>
+<Point>
+<coordinates>121.55742,25.041254,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Technology Bldg. Sta.</name>
+<Snippet>No.235, Sec. 2, Fusing S. Rd.</Snippet>
+<description>No.235, Sec. 2, Fusing S. Rd.</description>
+<Point>
+<coordinates>121.543293,25.025896,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xinyi &amp; Jianguo Intersection</name>
+<Snippet>The N.S. side of Lianyun St. &amp; Sec. 2, Xinyi Rd.</Snippet>
+<description>The N.S. side of Lianyun St. &amp; Sec. 2, Xinyi Rd.</description>
+<Point>
+<coordinates>121.53747,25.03293,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jinshan &amp; Aiguo Intersection</name>
+<Snippet>The S.W side of Aiguo St. &amp; Jinshan Rd.</Snippet>
+<description>The S.W side of Aiguo St. &amp; Jinshan Rd.</description>
+<Point>
+<coordinates>121.52655,25.03164,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Keelung &amp; Changxing Intersection</name>
+<Snippet>The S.W side of Keelung Rd. &amp; Changsing St.</Snippet>
+<description>The S.W side of Keelung Rd. &amp; Changsing St.</description>
+<Point>
+<coordinates>121.544352,25.017054,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xinhai &amp; Xinsheng Intersection</name>
+<Snippet>Under the bridge- Sinhai Rd. &amp; Shinsheng S. Rd.</Snippet>
+<description>Under the bridge- Sinhai Rd. &amp; Shinsheng S. Rd.</description>
+<Point>
+<coordinates>121.53456,25.022413,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Liuzhangli Sta.</name>
+<Snippet>The outside of the MRT exit and the side of Heping E. Rd.</Snippet>
+<description>The outside of the MRT exit and the side of Heping E. Rd.</description>
+<Point>
+<coordinates>121.553161,25.023884,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NTU Information Bldg.</name>
+<Snippet>Sec. 2, Xinghai Rd. (the outside ofLanguage Center of National Taiwan University)</Snippet>
+<description>Sec. 2, Xinghai Rd. (the outside ofLanguage Center of National Taiwan University)</description>
+<Point>
+<coordinates>121.54153,25.02101,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Dongmen Sta. (Exit 4)</name>
+<Snippet>Ren’ai Rd. &amp; Lishuei St.</Snippet>
+<description>Ren’ai Rd. &amp; Lishuei St.</description>
+<Point>
+<coordinates>121.528988,25.0337,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NTNU Library</name>
+<Snippet>The N. side of Heping E. Rd. &amp; Shihda Rd.</Snippet>
+<description>The N. side of Heping E. Rd. &amp; Shihda Rd.</description>
+<Point>
+<coordinates>121.52889,25.02665,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Gongguan Sta.(Exit 2)</name>
+<Snippet>The N.W. side of Roosevelt Rd.&amp; Sinhai Rd.</Snippet>
+<description>The N.W. side of Roosevelt Rd.&amp; Sinhai Rd.</description>
+<Point>
+<coordinates>121.534538,25.01476,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Zhongxiao Xinsheng Sta.(Exit 3)</name>
+<Snippet>The intersection of Sec. 3, Zhongxiao E. Rd. &amp; Ln. 10, Sec. 3, Zhongxiao E. Rd.</Snippet>
+<description>The intersection of Sec. 3, Zhongxiao E. Rd. &amp; Ln. 10, Sec. 3, Zhongxiao E. Rd.</description>
+<Point>
+<coordinates>121.533862,25.041924,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Longmen Square</name>
+<Snippet>Sec. 1, Dunhua S. Rd. &amp; Ln. 236, Sec. 1, Dunhua S. Rd.</Snippet>
+<description>Sec. 1, Dunhua S. Rd. &amp; Ln. 236, Sec. 1, Dunhua S. Rd.</description>
+<Point>
+<coordinates>121.548252,25.040901,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei Public Library</name>
+<Snippet>The N.E. side of Sec. 2, Jianguo S. Rd. &amp; Ln. 151, Sec. 2, Jianguo S. Rd.</Snippet>
+<description>The N.E. side of Sec. 2, Jianguo S. Rd. &amp; Ln. 151, Sec. 2, Jianguo S. Rd.</description>
+<Point>
+<coordinates>121.538073,25.028798,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xinsheng &amp; Heping Intersection</name>
+<Snippet>The N.E. side of Sec. 2, Xinsheng S. Rd. &amp; Sec. 2, Heping E. Rd</Snippet>
+<description>The N.E. side of Sec. 2, Xinsheng S. Rd. &amp; Sec. 2, Heping E. Rd</description>
+<Point>
+<coordinates>121.53519,25.026217,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>N.T.U.S.T</name>
+<Snippet>The intersection of Sec. 4, Keelung Rd. &amp; Ln. 73, Sec. 4, Keelung Rd</Snippet>
+<description>The intersection of Sec. 4, Keelung Rd. &amp; Ln. 73, Sec. 4, Keelung Rd</description>
+<Point>
+<coordinates>121.539723,25.0131,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei City Hospital Renai Branch</name>
+<Snippet>Da’an Rd. &amp; Sec. 4, Sinyi Rd.</Snippet>
+<description>Da’an Rd. &amp; Sec. 4, Sinyi Rd.</description>
+<Point>
+<coordinates>121.545632,25.037569,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Xinyi Anhe Sta.(Exit.4)</name>
+<Snippet>The S.W. side of Tonghua St. &amp; Sec. 4, Xinyi Road., Daan Dist.</Snippet>
+<description>The S.W. side of Tonghua St. &amp; Sec. 4, Xinyi Road., Daan Dist.</description>
+<Point>
+<coordinates>121.554204,25.032985,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Taipower Building Sta. (Exit 2)</name>
+<Snippet>The intersection of Roosevelt Rd. &amp; Xinhai Rd. (Gu Ting Elementary School)</Snippet>
+<description>The intersection of Roosevelt Rd. &amp; Xinhai Rd. (Gu Ting Elementary School)</description>
+<Point>
+<coordinates>121.528552,25.020547,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Daan Park Sta.</name>
+<Snippet>The S. side of Ln. 31, Sec. 3, Xinyi Rd. &amp; Sec. 3, Xinyi Rd.</Snippet>
+<description>The S. side of Ln. 31, Sec. 3, Xinyi Rd. &amp; Sec. 3, Xinyi Rd.</description>
+<Point>
+<coordinates>121.535161,25.033156,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xinyi &amp; Dunhua Intersection</name>
+<Snippet>The N.E. side of Sec. 4, Xinyi Rd. &amp; Sec. 1, Dunhua S. Rd.</Snippet>
+<description>The N.E. side of Sec. 4, Xinyi Rd. &amp; Sec. 1, Dunhua S. Rd.</description>
+<Point>
+<coordinates>121.54911,25.033362,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Daan Sta.</name>
+<Snippet>The S.W. side of Fuxing S. Rd. &amp; Sec. 3 Xinyi Rd.</Snippet>
+<description>The S.W. side of Fuxing S. Rd. &amp; Sec. 3 Xinyi Rd.</description>
+<Point>
+<coordinates>121.543057,25.033078,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Zhongxiao Fuxing Sta.(Exit 2)</name>
+<Snippet>The N.W. side of Sec. 1, Fuxing S. Rd. &amp; Aly. 13, Ln. 123, Sec. 3, Ren’ai Rd.</Snippet>
+<description>The N.W. side of Sec. 1, Fuxing S. Rd. &amp; Aly. 13, Ln. 123, Sec. 3, Ren’ai Rd.</description>
+<Point>
+<coordinates>121.543497,25.040184,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dunhua &amp; Keelung Intersection</name>
+<Snippet>Sec. 2, Dunhua S. Rd. &amp; Sec. 2, Keelung Rd.</Snippet>
+<description>Sec. 2, Dunhua S. Rd. &amp; Sec. 2, Keelung Rd.</description>
+<Point>
+<coordinates>121.548336,25.022073,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chengong Public Housing</name>
+<Snippet>Ln. 198, Siwei Rd./Ln. 1, Sec. 3, Heping E. Rd</Snippet>
+<description>Ln. 198, Siwei Rd./Ln. 1, Sec. 3, Heping E. Rd</description>
+<Point>
+<coordinates>121.546726,25.026808,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Roosevelt &amp; Xinsheng S. Intersection</name>
+<Snippet>Sec. 4, Roosevelt Rd./Sec. 3, Xinsheng S. Rd.</Snippet>
+<description>Sec. 4, Roosevelt Rd./Sec. 3, Xinsheng S. Rd.</description>
+<Point>
+<coordinates>121.5331757,25.01603085,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Linguang Sta. (Exit 2)</name>
+<Snippet>Sec. 3, Heping E. Rd./Ln. 416,Sec. 3, Heping E. Rd.</Snippet>
+<description>Sec. 3, Heping E. Rd./Ln. 416,Sec. 3, Heping E. Rd.</description>
+<Point>
+<coordinates>121.559279,25.018097,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>JianGuo &amp; Heping Intersection</name>
+<Snippet>Sec. 2, Jianguo S. Rd./Sec. 2, Heping E. Rd.</Snippet>
+<description>Sec. 2, Jianguo S. Rd./Sec. 2, Heping E. Rd.</description>
+<Point>
+<coordinates>121.537383,25.025850,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LiuGong Park</name>
+<Snippet>Ln. 75, Sec. 1/Ln. 75, Sec. 1, Da’an Rd.</Snippet>
+<description>Ln. 75, Sec. 1/Ln. 75, Sec. 1, Da’an Rd.</description>
+<Point>
+<coordinates>121.546050,25.042342,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Renai &amp; Yanji Intersection</name>
+<Snippet>Sec. 4, Ren’ai Rd./Yanji St.</Snippet>
+<description>Sec. 4, Ren’ai Rd./Yanji St.</description>
+<Point>
+<coordinates>121.555769,25.037465,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Wolong &amp; Leye Intersection</name>
+<Snippet>No.267, Wolong St. (opposite)</Snippet>
+<description>No.267, Wolong St. (opposite)</description>
+<Point>
+<coordinates>121.554839,25.018600,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>George Cocational High School of Taipei</name>
+<Snippet>No.166, Sec. 2, Keelung Rd.</Snippet>
+<description>No.166, Sec. 2, Keelung Rd.</description>
+<Point>
+<coordinates>121.555566,25.027123,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ln. 217, Sec. 3, Zhongxiao E. Rd</name>
+<Snippet>No.221, Sec. 3, Zhongxiao E. Rd.</Snippet>
+<description>No.221, Sec. 3, Zhongxiao E. Rd.</description>
+<Point>
+<coordinates>121.539873,25.041840,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Daan Sports Center</name>
+<Snippet>No.55, Sec. 3, Xinhai Rd.</Snippet>
+<description>No.55, Sec. 3, Xinhai Rd.</description>
+<Point>
+<coordinates>121.545608,25.020544,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dunqing Park</name>
+<Snippet>No.8-1, Ln. 96, Sec. 2, Heping E. Rd.</Snippet>
+<description>No.8-1, Ln. 96, Sec. 2, Heping E. Rd.</description>
+<Point>
+<coordinates>121.541083,25.023473,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jinhua Park</name>
+<Snippet>No.251, Jinhua St.</Snippet>
+<description>No.251, Jinhua St.</description>
+<Point>
+<coordinates>121.531235,25.029902,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Guting Sta.(Exit.6)</name>
+<Snippet>Sec. 2, Roosevelt Rd. / Ln. 15, Sec. 2, Roosevelt Rd.</Snippet>
+<description>Sec. 2, Roosevelt Rd. / Ln. 15, Sec. 2, Roosevelt Rd.</description>
+<Point>
+<coordinates>121.521980,25.027781,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Renai &amp; Anhe Intersection</name>
+<Snippet>Sec. 4, Ren’ai Rd. / Ln. 222, Sec. 4, Ren’ai Rd.</Snippet>
+<description>Sec. 4, Ren’ai Rd. / Ln. 222, Sec. 4, Ren’ai Rd.</description>
+<Point>
+<coordinates>121.552076,25.037570,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Xinyi Anhe Sta.(Exit.1)</name>
+<Snippet>Sec. 2, Xinyi Rd. / Sec. 1, Anhe Rd.</Snippet>
+<description>Sec. 2, Xinyi Rd. / Sec. 1, Anhe Rd.</description>
+<Point>
+<coordinates>121.552787,25.033323,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ln. 103,Sec. 2,Dunhua S. Rd.</name>
+<Snippet>No.97, Sec. 2, Dunhua S. Rd.</Snippet>
+<description>No.97, Sec. 2, Dunhua S. Rd.</description>
+<Point>
+<coordinates>121.549024,25.028973,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ln. 128, Sec. 2, Fuxing S. Rd.</name>
+<Snippet>No.144-3, Sec. 2, Fuxing S. Rd.</Snippet>
+<description>No.144-3, Sec. 2, Fuxing S. Rd.</description>
+<Point>
+<coordinates>121.543360,25.029040,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jianguo &amp; Jinan Intersection</name>
+<Snippet>Sec. 1, Jianguo S. Rd. / Sec. 3, Jinan Rd. intersection</Snippet>
+<description>Sec. 1, Jianguo S. Rd. / Sec. 3, Jinan Rd. intersection</description>
+<Point>
+<coordinates>121.537970,25.039950,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Heping &amp; Jinshan Intersection</name>
+<Snippet>Sec. 1, Heping E. Rd. / Sec. 2, Jinshan S. Rd. intersection</Snippet>
+<description>Sec. 1, Heping E. Rd. / Sec. 2, Jinshan S. Rd. intersection</description>
+<Point>
+<coordinates>121.525330,25.026720,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ln. 340, Sec. 1, Fuxing S. Rd.</name>
+<Snippet>No.322, Sec. 1, Fuxing S. Rd.</Snippet>
+<description>No.322, Sec. 1, Fuxing S. Rd.</description>
+<Point>
+<coordinates>121.543500,25.036170,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jiaxing Park</name>
+<Snippet>Ln. 101, Leye St. / Leye St. intersection</Snippet>
+<description>Ln. 101, Leye St. / Leye St. intersection</description>
+<Point>
+<coordinates>121.552190,25.021090,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Zhongshan Dist.</name>
+<Placemark>
+<name>Rongxing Park</name>
+<Snippet>The S.W. side of St.Wuchang &amp; Road Longjiang.</Snippet>
+<description>The S.W. side of St.Wuchang &amp; Road Longjiang.</description>
+<Point>
+<coordinates>121.54037,25.06424,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Xingtian Temple Sta. (Exit 1)</name>
+<Snippet>The side of Songjiang Rd.(the exit 1 of the MRT station of Xingtian Temple)</Snippet>
+<description>The side of Songjiang Rd.(the exit 1 of the MRT station of Xingtian Temple)</description>
+<Point>
+<coordinates>121.532934,25.058369,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Xingtian Temple Sta. (Exit 3)</name>
+<Snippet>The outside of the MRT station of Xingtian Temple.</Snippet>
+<description>The outside of the MRT station of Xingtian Temple.</description>
+<Point>
+<coordinates>121.533302,25.059978,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jianguo &amp; Nongan Intersection</name>
+<Snippet>(Behind empty area of CPC coporation) Jianguo N. Rd. &amp; Nong’an St.</Snippet>
+<description>(Behind empty area of CPC coporation) Jianguo N. Rd. &amp; Nong’an St.</description>
+<Point>
+<coordinates>121.536775,25.065031,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jianguo &amp; Changchun Intersection</name>
+<Snippet>The N. side of Jianguo N. Rd. &amp; Changchun Rd.</Snippet>
+<description>The N. side of Jianguo N. Rd. &amp; Changchun Rd.</description>
+<Point>
+<coordinates>121.536925,25.054761,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bade Market</name>
+<Snippet>The intersection of Sec.1, Jianguo S. Rd. &amp; Civic Blvd.</Snippet>
+<description>The intersection of Sec.1, Jianguo S. Rd. &amp; Civic Blvd.</description>
+<Point>
+<coordinates>121.536609,25.044781,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Linsen Park</name>
+<Snippet>Linsen N. Rd. &amp; Sec. 1, Nanjing E. Rd.</Snippet>
+<description>Linsen N. Rd. &amp; Sec. 1, Nanjing E. Rd.</description>
+<Point>
+<coordinates>121.525805,25.052227,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhongshan Dist. Admin. Office</name>
+<Snippet>Songjiang Rd. &amp; Nong’an St.</Snippet>
+<description>Songjiang Rd. &amp; Nong’an St.</description>
+<Point>
+<coordinates>121.533487,25.064317,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xinsheng &amp; Changan Intersection</name>
+<Snippet>The intersection of Sec. 1, Xinsheng N. Rd. &amp; Sec. 2, Chang’an E. Rd.</Snippet>
+<description>The intersection of Sec. 1, Xinsheng N. Rd. &amp; Sec. 2, Chang’an E. Rd.</description>
+<Point>
+<coordinates>121.529346,25.048611,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xinsheng &amp; Changchun Intersection</name>
+<Snippet>Under the bridge- the intersection of Sec. 2, Xinsheng N. Rd. &amp; Ln. 68, Sec. 2, Xinsheng N. Rd.</Snippet>
+<description>Under the bridge- the intersection of Sec. 2, Xinsheng N. Rd. &amp; Ln. 68, Sec. 2, Xinsheng N. Rd.</description>
+<Point>
+<coordinates>121.527522,25.056387,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei Fine Arts Museum</name>
+<Snippet>The S.W. side of Sec. 3, Zhongshan N. Rd. &amp; Jiuquan St.</Snippet>
+<description>The S.W. side of Sec. 3, Zhongshan N. Rd. &amp; Jiuquan St.</description>
+<Point>
+<coordinates>121.523268,25.070629,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lin An-tai Historical House</name>
+<Snippet>The N. side of Jilin Rd. &amp; Minzu E. Rd.</Snippet>
+<description>The N. side of Jilin Rd. &amp; Minzu E. Rd.</description>
+<Point>
+<coordinates>121.530805,25.071606,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Jiannan Rd. Sta.(Exit 2)</name>
+<Snippet>Jingye 2nd Rd. &amp; Zhifu Rd.</Snippet>
+<description>Jingye 2nd Rd. &amp; Zhifu Rd.</description>
+<Point>
+<coordinates>121.555116,25.08418,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Longjiang &amp; Nanjing Intersection</name>
+<Snippet>No.100, Longjiang Rd.</Snippet>
+<description>No.100, Longjiang Rd.</description>
+<Point>
+<coordinates>121.540568,25.05298,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Zhongshan Elementary School sta.(Exit 4)</name>
+<Snippet>Sec. 1, Minquan E. Rd./Sec. 3, Xinsheng N. Rd</Snippet>
+<description>Sec. 1, Minquan E. Rd./Sec. 3, Xinsheng N. Rd</description>
+<Point>
+<coordinates>121.52772,25.062924,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Songjiang Nanjing Sta. (Exit 7)</name>
+<Snippet>Sec. 2, Nanjing E. Rd./Sec. 2, Nanjing E. Rd.</Snippet>
+<description>Sec. 2, Nanjing E. Rd./Sec. 2, Nanjing E. Rd.</description>
+<Point>
+<coordinates>121.533211,25.052181,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xingan Huacheng Community</name>
+<Snippet>Xing’an St./Liaoning St.</Snippet>
+<description>Xing’an St./Liaoning St.</description>
+<Point>
+<coordinates>121.542318,25.055997,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jiantan Community</name>
+<Snippet>No.143, Tongbei St.</Snippet>
+<description>No.143, Tongbei St.</description>
+<Point>
+<coordinates>121.537892,25.084759,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Dazhi Sta. (Exit 3)</name>
+<Snippet>Aly. 41, Ln. 458, Bei’an Rd./Ln. 536, Bei’an Rd.</Snippet>
+<description>Aly. 41, Ln. 458, Bei’an Rd./Ln. 536, Bei’an Rd.</description>
+<Point>
+<coordinates>121.546683,25.079278,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Civic Blvd Linsen Intersection</name>
+<Snippet>Sec. 2, Civic Blvd./Linsen N. Rd.</Snippet>
+<description>Sec. 2, Civic Blvd./Linsen N. Rd.</description>
+<Point>
+<coordinates>121.524388,25.047958,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lequn 2nd &amp; Jingye 4th Intersection</name>
+<Snippet>No.180, Lequn 2nd Rd.</Snippet>
+<description>No.180, Lequn 2nd Rd.</description>
+<Point>
+<coordinates>121.558135,25.079766,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bei'an &amp; Dazhi Intersection</name>
+<Snippet>No.676, Bei’an Rd.</Snippet>
+<description>No.676, Bei’an Rd.</description>
+<Point>
+<coordinates>121.549452,25.084223,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Peiying Park</name>
+<Snippet>Chongshi Rd./Dazhi St. (southeast)</Snippet>
+<description>Chongshi Rd./Dazhi St. (southeast)</description>
+<Point>
+<coordinates>121.544601,25.082553,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fushun Park</name>
+<Snippet>No.180, Sec. 2, Zhongshan N. Rd. (opposite)</Snippet>
+<description>No.180, Sec. 2, Zhongshan N. Rd. (opposite)</description>
+<Point>
+<coordinates>121.522065,25.064108,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nanjing Jianguo Intersection</name>
+<Snippet>Sec. 2, Nanjing E. Rd./Sec. 2, Jianguo N. Rd.</Snippet>
+<description>Sec. 2, Nanjing E. Rd./Sec. 2, Jianguo N. Rd.</description>
+<Point>
+<coordinates>121.536802,25.052141,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fuxing &amp; Civic Intersection</name>
+<Snippet>No.36-9, Sec. 1, Fuxing S. Rd.</Snippet>
+<description>No.36-9, Sec. 1, Fuxing S. Rd.</description>
+<Point>
+<coordinates>121.543736,25.045908,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Zhongshan Junior High School Sta.</name>
+<Snippet>No.370, Fuxing N. Rd.</Snippet>
+<description>No.370, Fuxing N. Rd.</description>
+<Point>
+<coordinates>121.544028,25.060632,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nanjing &amp; Liaoning Intersection</name>
+<Snippet>No.189, Sec. 3, Nanjing E. Rd.(oppsite)</Snippet>
+<description>No.189, Sec. 3, Nanjing E. Rd.(oppsite)</description>
+<Point>
+<coordinates>121.542168,25.051761,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yitong &amp; Chang'an Intersection</name>
+<Snippet>Yitong St./Sec. 2, Chang’an E. Rd. intersection(Southwest)</Snippet>
+<description>Yitong St./Sec. 2, Chang’an E. Rd. intersection(Southwest)</description>
+<Point>
+<coordinates>121.534693,25.048334,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Songjiang Park</name>
+<Snippet>Songjiang Rd./Ln. 84, Songjiang Rd. intersecton</Snippet>
+<description>Songjiang Rd./Ln. 84, Songjiang Rd. intersecton</description>
+<Point>
+<coordinates>121.532725,25.050245,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei Second Fruits and Vegetables Wholesale Market</name>
+<Snippet>No.1, Ln. 410, Minzu E. Rd.</Snippet>
+<description>No.1, Ln. 410, Minzu E. Rd.</description>
+<Point>
+<coordinates>121.538264,25.067558,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xinsheng Park</name>
+<Snippet>Minzu E. Rd. / Jilin Rd. ( Northwest )</Snippet>
+<description>Minzu E. Rd. / Jilin Rd. ( Northwest )</description>
+<Point>
+<coordinates>121.530188,25.068387,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhulun Market</name>
+<Snippet>No.15, Longjiang Rd.</Snippet>
+<description>No.15, Longjiang Rd.</description>
+<Point>
+<coordinates>121.540431,25.047617,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Linsen &amp; Changchun Intersection</name>
+<Snippet>Linsen N. Rd. / Changchun Rd. Intersetion</Snippet>
+<description>Linsen N. Rd. / Changchun Rd. Intersetion</description>
+<Point>
+<coordinates>121.525383,25.055062,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>National Taipei University(Taipei Canpus)</name>
+<Snippet>Sec. 3, Minsheng E. Rd. / Aly. 10, Ln. 280, Fuxing N. Rd.</Snippet>
+<description>Sec. 3, Minsheng E. Rd. / Aly. 10, Ln. 280, Fuxing N. Rd.</description>
+<Point>
+<coordinates>121.542732,25.057923,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Minzu &amp; Linsen Intersection</name>
+<Snippet>Minzu E. Rd. / Linsen N. Rd. intersection</Snippet>
+<description>Minzu E. Rd. / Linsen N. Rd. intersection</description>
+<Point>
+<coordinates>121.525322,25.068507,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yongsheng Park</name>
+<Snippet/>
+<description/>
+<Point>
+<coordinates>121.525040,25.058835,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xinxing Park</name>
+<Snippet>Ln. 13, Jinzhou St. / Ln. 137, Sec. 2, Zhongshan N. Rd.</Snippet>
+<description>Ln. 13, Jinzhou St. / Ln. 137, Sec. 2, Zhongshan N. Rd.</description>
+<Point>
+<coordinates>121.524392,25.061568,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yijiang Park</name>
+<Snippet>Yijiang St. /  Ln. 132, Songjiang Rd. intersection</Snippet>
+<description>Yijiang St. /  Ln. 132, Songjiang Rd. intersection</description>
+<Point>
+<coordinates>121.531460,25.053160,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lequn 2nd &amp; Mingshui Intersection</name>
+<Snippet>Lequn 2nd Rd. / Mingshui Rd. intersetion</Snippet>
+<description>Lequn 2nd Rd. / Mingshui Rd. intersetion</description>
+<Point>
+<coordinates>121.552360,25.079830,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Minzu &amp; Yumen Intersection</name>
+<Snippet>Minsheng W. Rd. / Ln. 31, Minsheng W. Rd. intersection</Snippet>
+<description>Minsheng W. Rd. / Ln. 31, Minsheng W. Rd. intersection</description>
+<Point>
+<coordinates>121.519740,25.068590,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Zhongshan Sta. (Exit 2)</name>
+<Snippet>No.6, Nanjing W. Rd.</Snippet>
+<description>No.6, Nanjing W. Rd.</description>
+<Point>
+<coordinates>121.521930,25.052250,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Minquan &amp; Jianguo Intersection</name>
+<Snippet>Sec. 3, Minquan E. Rd. / Sec. 3, Jianguo N. Rd. intersection</Snippet>
+<description>Sec. 3, Minquan E. Rd. / Sec. 3, Jianguo N. Rd. intersection</description>
+<Point>
+<coordinates>121.537540,25.062520,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Minsheng &amp; Jianguo Intersection</name>
+<Snippet>Sec. 3, Minsheng E. Rd. / Sec. 2, Jianguo N. Rd.</Snippet>
+<description>Sec. 3, Minsheng E. Rd. / Sec. 2, Jianguo N. Rd.</description>
+<Point>
+<coordinates>121.536915,25.057778,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Songshan Dist.</name>
+<Placemark>
+<name>Raohe Night Market</name>
+<Snippet>No.568, Sec. 4, Bade Rd.(oppsite)</Snippet>
+<description>No.568, Sec. 4, Bade Rd.(oppsite)</description>
+<Point>
+<coordinates>121.572043,25.049413,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Minsheng &amp; Guangfu Intersection</name>
+<Snippet>The N.W. side of Road Guangfu S &amp; Road Minsheng E.</Snippet>
+<description>The N.W. side of Road Guangfu S &amp; Road Minsheng E.</description>
+<Point>
+<coordinates>121.55514,25.05862,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei Cultural Center</name>
+<Snippet>No.25, Sec. 3, Bade Rd.</Snippet>
+<description>No.25, Sec. 3, Bade Rd.</description>
+<Point>
+<coordinates>121.552278,25.048268,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Minsheng &amp; Dunhua Intersection</name>
+<Snippet>The side of bus stop- Dunhua Minsheng Intersection.</Snippet>
+<description>The side of bus stop- Dunhua Minsheng Intersection.</description>
+<Point>
+<coordinates>121.548982,25.057985,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhonglun High School</name>
+<Snippet>The side of Ln. 91, Sec. 4, Bade Rd. ( beside Zhong-Lun High School)</Snippet>
+<description>The side of Ln. 91, Sec. 4, Bade Rd. ( beside Zhong-Lun High School)</description>
+<Point>
+<coordinates>121.56087,25.04878,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MinQuan Park</name>
+<Snippet>The intersection of Sec. 4, Mincyuan E. Rd. &amp; Xinzhong St.</Snippet>
+<description>The intersection of Sec. 4, Mincyuan E. Rd. &amp; Xinzhong St.</description>
+<Point>
+<coordinates>121.560186,25.062002,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei Stadium</name>
+<Snippet>No.3, Dunhua N. Rd.</Snippet>
+<description>No.3, Dunhua N. Rd.</description>
+<Point>
+<coordinates>121.549408,25.049505,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Minsheng Activity Center</name>
+<Snippet>The N.W. side of Sec. 5, Minsheng E. Rd. &amp; Sanmin Rd.</Snippet>
+<description>The N.W. side of Sec. 5, Minsheng E. Rd. &amp; Sanmin Rd.</description>
+<Point>
+<coordinates>121.56297,25.059147,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Minquan &amp; Fuxing Intersection</name>
+<Snippet>The N.E. side of Fuxing N. Rd. &amp; Sec. 3, Minquan E. Rd.</Snippet>
+<description>The N.E. side of Fuxing N. Rd. &amp; Sec. 3, Minquan E. Rd.</description>
+<Point>
+<coordinates>121.545138,25.062344,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Sanmin Park</name>
+<Snippet>The S.E. side of Fuyuan St. &amp; Fujin St.</Snippet>
+<description>The S.E. side of Fuyuan St. &amp; Fujin St.</description>
+<Point>
+<coordinates>121.566558,25.061567,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>XinDong Park</name>
+<Snippet>Sec. 5, Minsheng E. Rd./Tayou Rd.</Snippet>
+<description>Sec. 5, Minsheng E. Rd./Tayou Rd.</description>
+<Point>
+<coordinates>121.568883,25.059245,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Nanjing Sanmin Sta. (Exit 1)</name>
+<Snippet>Sec. 5, Nanjing E. Rd./Sanmin Rd.</Snippet>
+<description>Sec. 5, Nanjing E. Rd./Sanmin Rd.</description>
+<Point>
+<coordinates>121.562891,25.051562,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Taipei Arena Sta. (Exit 5)</name>
+<Snippet>Sec. 4, Nanjing E. Rd./Jiankang Rd.</Snippet>
+<description>Sec. 4, Nanjing E. Rd./Jiankang Rd.</description>
+<Point>
+<coordinates>121.553057,25.051702,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Nanjing Fuxing Sta. (Exit 5)</name>
+<Snippet>Sec. 3, Nanjing E. Rd./Ln. 256, Sec. 3, Nanjing E. Rd.</Snippet>
+<description>Sec. 3, Nanjing E. Rd./Ln. 256, Sec. 3, Nanjing E. Rd.</description>
+<Point>
+<coordinates>121.544847,25.051618,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Construction &amp; Planning Agency</name>
+<Snippet>No.342, Sec. 2, Bade Rd. (east side)</Snippet>
+<description>No.342, Sec. 2, Bade Rd. (east side)</description>
+<Point>
+<coordinates>121.545022,25.047805,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Civic Blvd &amp; Dongxing Intersection</name>
+<Snippet>No.193, Sec. 5, Civic Blvd.</Snippet>
+<description>No.193, Sec. 5, Civic Blvd.</description>
+<Point>
+<coordinates>121.565928,25.048460,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ln. 22, Guangfu S. Rd.</name>
+<Snippet>No.23, Guangfu S. Rd.(oppsite)</Snippet>
+<description>No.23, Guangfu S. Rd.(oppsite)</description>
+<Point>
+<coordinates>121.557674,25.046914,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jiankang New Village</name>
+<Snippet>No.177, Jiankang Rd.</Snippet>
+<description>No.177, Jiankang Rd.</description>
+<Point>
+<coordinates>121.560928,25.054095,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Songshan Sta.(Exit.3)</name>
+<Snippet>Songshan Rd. / Sec. 6, Civic Blvd. ( Northwest ) MRT Ex.3</Snippet>
+<description>Songshan Rd. / Sec. 6, Civic Blvd. ( Northwest ) MRT Ex.3</description>
+<Point>
+<coordinates>121.577459,25.049616,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dunbei Park</name>
+<Snippet>Dunhua N. Rd. / Fujin St. Intersection</Snippet>
+<description>Dunhua N. Rd. / Fujin St. Intersection</description>
+<Point>
+<coordinates>121.550711,25.060746,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xisong High School</name>
+<Snippet>Ln. 325, Jiankang Rd. / Aly. 12, Ln. 325, Jiankang Rd.</Snippet>
+<description>Ln. 325, Jiankang Rd. / Aly. 12, Ln. 325, Jiankang Rd.</description>
+<Point>
+<coordinates>121.567127,25.055672,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tri-Service General (Songshan Branch)</name>
+<Snippet>Guangfu N. Rd. / Ln. 190, Guangfu N. Rd.</Snippet>
+<description>Guangfu N. Rd. / Ln. 190, Guangfu N. Rd.</description>
+<Point>
+<coordinates>121.556098,25.054470,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dunhua &amp; Changchun Intersection</name>
+<Snippet>Dunhua N. Rd. / Ln. 120, Dunhua N. Rd.</Snippet>
+<description>Dunhua N. Rd. / Ln. 120, Dunhua N. Rd.</description>
+<Point>
+<coordinates>121.548720,25.053614,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Minyou first Park</name>
+<Snippet>Ln. 244, Dunhua N. Rd. / Ln. 160, Sec. 3, Minquan E. Rd. intersection</Snippet>
+<description>Ln. 244, Dunhua N. Rd. / Ln. 160, Sec. 3, Minquan E. Rd. intersection</description>
+<Point>
+<coordinates>121.547630,25.060911,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Nanjing Sanmin Sta.(Exit.3)</name>
+<Snippet>No.204, Sec. 5, Nanjing E. Rd.</Snippet>
+<description>No.204, Sec. 5, Nanjing E. Rd.</description>
+<Point>
+<coordinates>121.564262,25.051287,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fusheng Park</name>
+<Snippet>No.2, Aly. 6, Ln. 106, Sec. 4, Bade Rd.</Snippet>
+<description>No.2, Aly. 6, Ln. 106, Sec. 4, Bade Rd.</description>
+<Point>
+<coordinates>121.561182,25.047428,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Minsheng Parking Lot</name>
+<Snippet>No.82, Sec. 5, Minsheng E. Rd.</Snippet>
+<description>No.82, Sec. 5, Minsheng E. Rd.</description>
+<Point>
+<coordinates>121.559450,25.057940,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jianan Sincheng</name>
+<Snippet>No.41, Sanmin Rd.</Snippet>
+<description>No.41, Sanmin Rd.</description>
+<Point>
+<coordinates>121.563580,25.056010,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Songji Park</name>
+<Snippet>Ln. 339, Changchun Rd. / Ln. 189, Fuxing N. Rd. intersection</Snippet>
+<description>Ln. 339, Changchun Rd. / Ln. 189, Fuxing N. Rd. intersection</description>
+<Point>
+<coordinates>121.544800,25.054910,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Nangang Dist.</name>
+<Placemark>
+<name>Dongxin Elementary School</name>
+<Snippet>A side entrance of Dongxin Elementery School(front of No. 62, Dongxin St.)</Snippet>
+<description>A side entrance of Dongxin Elementery School(front of No. 62, Dongxin St.)</description>
+<Point>
+<coordinates>121.602798,25.055074,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Kunyang Sta. (Exit 1)</name>
+<Snippet>The side of parking lots in the MRT Kunyang station (exit 1)</Snippet>
+<description>The side of parking lots in the MRT Kunyang station (exit 1)</description>
+<Point>
+<coordinates>121.592375,25.050142,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Nangang Exhibition Center Sta. (Exit 5)</name>
+<Snippet>The N.E side of Academia Rd. &amp; Shihmin Blvd.</Snippet>
+<description>The N.E side of Academia Rd. &amp; Shihmin Blvd.</description>
+<Point>
+<coordinates>121.61669,25.05469,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nangang Park</name>
+<Snippet>The N.E. side of Sanchong Rd. &amp; Ln. 88, Jingmao 2nd Rd.</Snippet>
+<description>The N.E. side of Sanchong Rd. &amp; Ln. 88, Jingmao 2nd Rd.</description>
+<Point>
+<coordinates>121.61422,25.058,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yucheng Park</name>
+<Snippet>The front of No. 247, Yucheng St.</Snippet>
+<description>The front of No. 247, Yucheng St.</description>
+<Point>
+<coordinates>121.58640,25.04287,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Academia Park</name>
+<Snippet>The S.W side of Ln. 12, Sec. 2, Academia Rd. &amp; Aly. 58, Ln. 12, Sec. 2, Academia Rd.</Snippet>
+<description>The S.W side of Ln. 12, Sec. 2, Academia Rd. &amp; Aly. 58, Ln. 12, Sec. 2, Academia Rd.</description>
+<Point>
+<coordinates>121.613706,25.047425,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Linyun Market</name>
+<Snippet>The N.E. side of St. Lingyun &amp; Academia Rd.</Snippet>
+<description>The N.E. side of St. Lingyun &amp; Academia Rd.</description>
+<Point>
+<coordinates>121.614154,25.035639,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Nangang Software Park Sta.(Exit 2)</name>
+<Snippet>The outside of the MRT station exit 2 of Taipei Nangang Exhibition Center</Snippet>
+<description>The outside of the MRT station exit 2 of Taipei Nangang Exhibition Center</description>
+<Point>
+<coordinates>121.616187,25.05973,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nangang Elementary School</name>
+<Snippet>The opposite of parking lots of exit Singdong St. (Nan-Gang Elementary School)</Snippet>
+<description>The opposite of parking lots of exit Singdong St. (Nan-Gang Elementary School)</description>
+<Point>
+<coordinates>121.611027,25.05646,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nangang Rail Sta.(Zhongxiao E.Rd.)</name>
+<Snippet>The intersection of Sec. 7, Zhongxiao E. Rd. &amp; Ln. 415, Sec. 7, Zhongxiao E. Rd</Snippet>
+<description>The intersection of Sec. 7, Zhongxiao E. Rd. &amp; Ln. 415, Sec. 7, Zhongxiao E. Rd</description>
+<Point>
+<coordinates>121.608202,25.05247,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nangang Park</name>
+<Snippet>No.383, Fude St.</Snippet>
+<description>No.383, Fude St.</description>
+<Point>
+<coordinates>121.590885,25.041278,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jiuzhuang Recreation Center</name>
+<Snippet>Ln. 91, Sec. 1, Jiuzhuang St./Aly. 12, Ln. 91, Sec. 1, Jiuzhuang St.</Snippet>
+<description>Ln. 91, Sec. 1, Jiuzhuang St./Aly. 12, Ln. 91, Sec. 1, Jiuzhuang St.</description>
+<Point>
+<coordinates>121.619350,25.041277,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dongyang Park</name>
+<Snippet>No.26 to No. 36-2, Ln. 125, Chongyang Rd. (opposite)</Snippet>
+<description>No.26 to No. 36-2, Ln. 125, Chongyang Rd. (opposite)</description>
+<Point>
+<coordinates>121.597924,25.057164,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xiangyang &amp; Nangang Intersection</name>
+<Snippet>No.49, Xiangyang Rd.</Snippet>
+<description>No.49, Xiangyang Rd.</description>
+<Point>
+<coordinates>121.594228,25.054365,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bade &amp; Zhongpo Intersection</name>
+<Snippet>No.869, Sec. 4, Bade Rd.</Snippet>
+<description>No.869, Sec. 4, Bade Rd.</description>
+<Point>
+<coordinates>121.580194,25.050620,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nangang Vocational High School</name>
+<Snippet>No.29, Xingzhong Rd.</Snippet>
+<description>No.29, Xingzhong Rd.</description>
+<Point>
+<coordinates>121.607055,25.056655,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nangang Rail Sta.(Xinhua Rd.)</name>
+<Snippet>Sec. 8, Civic Blvd./Xinghua Rd. intersection</Snippet>
+<description>Sec. 8, Civic Blvd./Xinghua Rd. intersection</description>
+<Point>
+<coordinates>121.606331,25.053432,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hesin Square</name>
+<Snippet>No.80, Yucheng St.(oppsite)</Snippet>
+<description>No.80, Yucheng St.(oppsite)</description>
+<Point>
+<coordinates>121.582848,25.046361,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chengde Junior High School</name>
+<Snippet>No.10-1, Ln. 108, Dongxin St.</Snippet>
+<description>No.10-1, Ln. 108, Dongxin St.</description>
+<Point>
+<coordinates>121.587940,25.045730,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ln. 185, Sec. 6, Zhongxiao E. Rd</name>
+<Snippet>No.187, Sec. 6, Zhongxiao E. Rd.</Snippet>
+<description>No.187, Sec. 6, Zhongxiao E. Rd.</description>
+<Point>
+<coordinates>121.587550,25.049040,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fushan Park</name>
+<Snippet>No.15, Ln. 61, Sec. 2, Academia Rd.</Snippet>
+<description>No.15, Ln. 61, Sec. 2, Academia Rd.</description>
+<Point>
+<coordinates>121.617590,25.044780,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Zhongzheng Dist.</name>
+<Placemark>
+<name>Renai &amp; Linsen Intersection</name>
+<Snippet>The N.E. side of Linsen S. Rd &amp; Sec. 1, Ren’ai Rd.(42)</Snippet>
+<description>The N.E. side of Linsen S. Rd &amp; Sec. 1, Ren’ai Rd.(42)</description>
+<Point>
+<coordinates>121.522334,25.038954,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Shandao Temple Sta(Exit 1)</name>
+<Snippet>The N.E. side of Tianjin St. &amp; Sec. 1, Zhongxiao E. Rd.</Snippet>
+<description>The N.E. side of Tianjin St. &amp; Sec. 1, Zhongxiao E. Rd.</description>
+<Point>
+<coordinates>121.522200,25.045267,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nanchang Park</name>
+<Snippet>Sec. 1, Heping W. Rd.&amp; Nanchang Rd.</Snippet>
+<description>Sec. 1, Heping W. Rd.&amp; Nanchang Rd.</description>
+<Point>
+<coordinates>121.520258,25.026827,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>National Central Library</name>
+<Snippet>The S.W. side of Zhongshan S. Rd. &amp; Guiyang St.</Snippet>
+<description>The S.W. side of Zhongshan S. Rd. &amp; Guiyang St.</description>
+<Point>
+<coordinates>121.517029,25.037773,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Nat’l Taiwan U. Hospital Sta.(Exit 4)</name>
+<Snippet>The S.W. side of Gongyuan Rd. &amp; Siangyang Rd.</Snippet>
+<description>The S.W. side of Gongyuan Rd. &amp; Siangyang Rd.</description>
+<Point>
+<coordinates>121.516428,25.042973,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xinyi &amp; Lianyun Intersection</name>
+<Snippet>The N.S. side of Lianyun St. &amp; Sec. 2, Xinyi Rd.</Snippet>
+<description>The N.S. side of Lianyun St. &amp; Sec. 2, Xinyi Rd.</description>
+<Point>
+<coordinates>121.530547,25.033817,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Ximen Sta.(Exit 3)</name>
+<Snippet>The S.E. side of Sec. 1, Zhonghua Rd. &amp; Baoqing Rd.</Snippet>
+<description>The S.E. side of Sec. 1, Zhonghua Rd. &amp; Baoqing Rd.</description>
+<Point>
+<coordinates>121.508693,25.041778,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Heping Chongqing Intersection</name>
+<Snippet>The N.E. side of Sec. 3, Chongqing S. Rd. &amp; Sec. 1, Heping W. Rd.</Snippet>
+<description>The N.E. side of Sec. 3, Chongqing S. Rd. &amp; Sec. 1, Heping W. Rd.</description>
+<Point>
+<coordinates>121.516385,25.027323,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jinshen &amp; Civic Blvd. Intersection</name>
+<Snippet>The S. side of Jinshan N. Rd. &amp; Sec. 3, Civic Blvd.</Snippet>
+<description>The S. side of Jinshan N. Rd. &amp; Sec. 3, Civic Blvd.</description>
+<Point>
+<coordinates>121.530697,25.045753,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Huashan 1914‧Creative Park</name>
+<Snippet>Front of No.41, Sec. 2, Zhongxiao E. Rd.</Snippet>
+<description>Front of No.41, Sec. 2, Zhongxiao E. Rd.</description>
+<Point>
+<coordinates>121.528487,25.043668,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei City Hakka Cultural Park</name>
+<Snippet>The intersection of Shida Rd. &amp; Tingzhou Rd.</Snippet>
+<description>The intersection of Shida Rd. &amp; Tingzhou Rd.</description>
+<Point>
+<coordinates>121.525322,25.02043,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Xiaonanmen Sta. (Exit 1)</name>
+<Snippet>The intersection of Bo’ai Rd. &amp; Aiguo W. Rd.</Snippet>
+<description>The intersection of Bo’ai Rd. &amp; Aiguo W. Rd.</description>
+<Point>
+<coordinates>121.509422,25.036402,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei Bus Sta.</name>
+<Snippet>Sec. 1, Zhongshan N. Rd. &amp; Sec. 1, Civic Blvd.</Snippet>
+<description>Sec. 1, Zhongshan N. Rd. &amp; Sec. 1, Civic Blvd.</description>
+<Point>
+<coordinates>121.520526,25.048222,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Roosevelt &amp; Ningbo E. St. Intersection</name>
+<Snippet>Sec. 1, Roosevelt Rd. &amp; Ningbo E. St.</Snippet>
+<description>Sec. 1, Roosevelt Rd. &amp; Ningbo E. St.</description>
+<Point>
+<coordinates>121.519411,25.031445,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Heti Elementary School</name>
+<Snippet>No.1, Aly. 23, Lane 12, Jinmen St.</Snippet>
+<description>No.1, Aly. 23, Lane 12, Jinmen St.</description>
+<Point>
+<coordinates>121.522855,25.02288,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei Botanical Garden</name>
+<Snippet>No.100, Sec. 2, Heping W. Rd.</Snippet>
+<description>No.100, Sec. 2, Heping W. Rd.</description>
+<Point>
+<coordinates>121.509813,25.030015,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Guting Sta. (Exit 2)</name>
+<Snippet>Sec. 2, Roosevelt Rd./Ln. 174, Sec. 2, Roosevelt Rd.</Snippet>
+<description>Sec. 2, Roosevelt Rd./Ln. 174, Sec. 2, Roosevelt Rd.</description>
+<Point>
+<coordinates>121.523537,25.025300,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>University of Taipei</name>
+<Snippet>Aiguo W. Rd./Gongyuan Rd.</Snippet>
+<description>Aiguo W. Rd./Gongyuan Rd.</description>
+<Point>
+<coordinates>121.514218,25.035414,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xinyi Hangzhou Intersection(Chunghwa Telecom)</name>
+<Snippet>Sec. 1, Xinyi Rd./Sec. 1, Hangzhou S. Rd.</Snippet>
+<description>Sec. 1, Xinyi Rd./Sec. 1, Hangzhou S. Rd.</description>
+<Point>
+<coordinates>121.523987,25.035851,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhongshan Hall</name>
+<Snippet>Yanping S. Rd./Sec. 1, Wuchang St. intersection(southeast)</Snippet>
+<description>Yanping S. Rd./Sec. 1, Wuchang St. intersection(southeast)</description>
+<Point>
+<coordinates>121.510250,25.044091,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ying-Qiao Elementary school</name>
+<Snippet>No.32, Quanzhou St.(oppsite)</Snippet>
+<description>No.32, Quanzhou St.(oppsite)</description>
+<Point>
+<coordinates>121.513770,25.025966,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jinan &amp; Shaosing Intersection</name>
+<Snippet>Sec. 1, Jinan Rd / Shaoxing S. St. ( Southeast )</Snippet>
+<description>Sec. 1, Jinan Rd / Shaoxing S. St. ( Southeast )</description>
+<Point>
+<coordinates>121.524591,25.041928,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Guling Park</name>
+<Snippet>Xiamen St. / Guling St. ( East )</Snippet>
+<description>Xiamen St. / Guling St. ( East )</description>
+<Point>
+<coordinates>121.518835,25.023377,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei Water Park</name>
+<Snippet>No.16, Siyuan St.(oppsite)</Snippet>
+<description>No.16, Siyuan St.(oppsite)</description>
+<Point>
+<coordinates>121.530037,25.013284,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Zhongxiao Xinsheng Sta.(Exit.2)</name>
+<Snippet>No.123, Sec. 2, Zhongxiao E. Rd.(oppsite)</Snippet>
+<description>No.123, Sec. 2, Zhongxiao E. Rd.(oppsite)</description>
+<Point>
+<coordinates>121.532229,25.042392,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chongqing &amp; Nanhai Intersection</name>
+<Snippet>No.45, Sec. 2, Chongqing S. Rd.</Snippet>
+<description>No.45, Sec. 2, Chongqing S. Rd.</description>
+<Point>
+<coordinates>121.514640,25.031580,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhongzheng Sports Center</name>
+<Snippet>No.1, Sec. 1, Xinyi Rd.</Snippet>
+<description>No.1, Sec. 1, Xinyi Rd.</description>
+<Point>
+<coordinates>121.519430,25.038060,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Boai &amp; Baoqing Intersection</name>
+<Snippet>Bo’ai Rd. / Baoqing Rd. intersection</Snippet>
+<description>Bo’ai Rd. / Baoqing Rd. intersection</description>
+<Point>
+<coordinates>121.511350,25.041340,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhongshan &amp; Qingdao Intersection</name>
+<Snippet>Zhongshan S. Rd. / Qingdao E. Rd. intersection</Snippet>
+<description>Zhongshan S. Rd. / Qingdao E. Rd. intersection</description>
+<Point>
+<coordinates>121.519540,25.044690,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kishu An Forest of Literature</name>
+<Snippet>No.107, Tong’an St.</Snippet>
+<description>No.107, Tong’an St.</description>
+<Point>
+<coordinates>121.520490,25.020880,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nanmen Junior High School</name>
+<Snippet>Ln. 8, Guangzhou St. / Guangzhou St. intersection</Snippet>
+<description>Ln. 8, Guangzhou St. / Guangzhou St. intersection</description>
+<Point>
+<coordinates>121.508340,25.035320,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>City Hospital (Heping Branch)</name>
+<Snippet>No.33, Sec. 2, Zhonghua Rd.</Snippet>
+<description>No.33, Sec. 2, Zhonghua Rd.</description>
+<Point>
+<coordinates>121.506390,25.035160,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Wanhua Dist.</name>
+<Placemark>
+<name>Youth Park(Exit 3)</name>
+<Snippet>The E. side of Qingnian Rd. &amp; Ln. 106, Qingnian Rd.</Snippet>
+<description>The E. side of Qingnian Rd. &amp; Ln. 106, Qingnian Rd.</description>
+<Point>
+<coordinates>121.502708,25.022725,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Guoxing &amp; Qingnian Intersection</name>
+<Snippet>The S.W. side of Guoxing Rd. &amp; Qingnian Rd.</Snippet>
+<description>The S.W. side of Guoxing Rd. &amp; Qingnian Rd.</description>
+<Point>
+<coordinates>121.506536,25.025865,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Huajiang High School</name>
+<Snippet>The N.E. side of Dongyuan St. &amp; Ln. 35, Dongyuan St.</Snippet>
+<description>The N.E. side of Dongyuan St. &amp; Ln. 35, Dongyuan St.</description>
+<Point>
+<coordinates>121.495869,25.02751,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fuhua Garden New Village(City)</name>
+<Snippet>The S.E. side of No.115, Xizang Rd. &amp; Xizang Rd.</Snippet>
+<description>The S.E. side of No.115, Xizang Rd. &amp; Xizang Rd.</description>
+<Point>
+<coordinates>121.502899,25.029705,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Laosong Elementary School</name>
+<Snippet>The S.E. side of Kangding Rd. &amp; Guilin Rd.</Snippet>
+<description>The S.E. side of Kangding Rd. &amp; Guilin Rd.</description>
+<Point>
+<coordinates>121.501708,25.037783,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kaifong &amp; Xining Intersection</name>
+<Snippet>The N.E. side of Sec. 2, Kaifeng St. &amp; Xining S. Rd.</Snippet>
+<description>The N.E. side of Sec. 2, Kaifeng St. &amp; Xining S. Rd.</description>
+<Point>
+<coordinates>121.507169,25.046618,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dongyuan Elementary School</name>
+<Snippet>The S.E. side of Dongyuan St. &amp; Ln. 344, Wanda Rd.</Snippet>
+<description>The S.E. side of Dongyuan St. &amp; Ln. 344, Wanda Rd.</description>
+<Point>
+<coordinates>121.497679,25.023393,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Wanda &amp; Xingning Intersection</name>
+<Snippet>The S.W. side of Wanda Rd. &amp; Xingning St.</Snippet>
+<description>The S.W. side of Wanda Rd. &amp; Xingning St.</description>
+<Point>
+<coordinates>121.500474,25.031974,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Emei Parking Lot</name>
+<Snippet>The S.E. side of Kunming St. &amp; Ln. 50, Xining S. Rd.</Snippet>
+<description>The S.E. side of Kunming St. &amp; Ln. 50, Xining S. Rd.</description>
+<Point>
+<coordinates>121.505409,25.044412,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xiyuan &amp; Bangka Intersection</name>
+<Snippet>The S.W. side of Sec. 2, Xiyuan Rd. &amp; Bangka Blvd.</Snippet>
+<description>The S.W. side of Sec. 2, Xiyuan Rd. &amp; Bangka Blvd.</description>
+<Point>
+<coordinates>121.497674,25.032932,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Longshan Temple Sta. (Exit. 1)</name>
+<Snippet>Sec. 3, Heping W. Rd. &amp; Ln. 109, Sec. 3, Heping W. Rd.</Snippet>
+<description>Sec. 3, Heping W. Rd. &amp; Ln. 109, Sec. 3, Heping W. Rd.</description>
+<Point>
+<coordinates>121.50026,25.035479,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Huaxi Park</name>
+<Snippet>Huaxi St. &amp; Guilin Rd.</Snippet>
+<description>Huaxi St. &amp; Guilin Rd.</description>
+<Point>
+<coordinates>121.498495,25.038609,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Guting Junior High School</name>
+<Snippet>No.465, Sec. 2, Zhonghua Rd. (opposite)</Snippet>
+<description>No.465, Sec. 2, Zhonghua Rd. (opposite)</description>
+<Point>
+<coordinates>121.510570,25.024487,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Longshan Elementary School</name>
+<Snippet>No.280, Sec. 3, Heping W. Rd. (opposite)</Snippet>
+<description>No.280, Sec. 3, Heping W. Rd. (opposite)</description>
+<Point>
+<coordinates>121.495342,25.035555,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dali High School</name>
+<Snippet>No.300, Sec. 2, Huanhe S. Rd. (opposite)</Snippet>
+<description>No.300, Sec. 2, Huanhe S. Rd. (opposite)</description>
+<Point>
+<coordinates>121.490740,25.031147,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhonghua &amp; Guilin Intersection</name>
+<Snippet>No.206, Sec. 1, Zhonghua Rd.</Snippet>
+<description>No.206, Sec. 1, Zhonghua Rd.</description>
+<Point>
+<coordinates>121.506624,25.037706,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jinde Park</name>
+<Snippet>No.243, Dechang St.(oppsite)</Snippet>
+<description>No.243, Dechang St.(oppsite)</description>
+<Point>
+<coordinates>121.492637,25.023316,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nishi Honganji Square</name>
+<Snippet>Sec. 1, Zhonghua Rd./Sec. 2, Changsha St. intersection(Southwest)</Snippet>
+<description>Sec. 1, Zhonghua Rd./Sec. 2, Changsha St. intersection(Southwest)</description>
+<Point>
+<coordinates>121.507688,25.040988,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Changsha Park</name>
+<Snippet>No.280-1, Sec. 1, Huanhe S. Rd.</Snippet>
+<description>No.280-1, Sec. 1, Huanhe S. Rd.</description>
+<Point>
+<coordinates>121.499922,25.041702,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Wanhua Junior High School</name>
+<Snippet>Xizang Rd. / Ln. 299, Juguang Rd. Intersection</Snippet>
+<description>Xizang Rd. / Ln. 299, Juguang Rd. Intersection</description>
+<Point>
+<coordinates>121.499358,25.029264,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Shuangyuan Junior High School</name>
+<Snippet>Ln. 320, Sec. 2, Xiyuan Rd. / Xingyi St. intersection</Snippet>
+<description>Ln. 320, Sec. 2, Xiyuan Rd. / Xingyi St. intersection</description>
+<Point>
+<coordinates>121.491675,25.026823,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xinhe Elementary School</name>
+<Snippet>Ln. 416, Sec. 2, Zhonghua Rd. / Aly. 37, Ln. 277, Wanda Rd. intersection</Snippet>
+<description>Ln. 416, Sec. 2, Zhonghua Rd. / Aly. 37, Ln. 277, Wanda Rd. intersection</description>
+<Point>
+<coordinates>121.502420,25.026560,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Wenshan Dist.</name>
+<Placemark>
+<name>NTNU Gongguan Campus</name>
+<Snippet>The side of Tingzhou Rd. (National Taiwan Normal University- Gongguan Campus)</Snippet>
+<description>The side of Tingzhou Rd. (National Taiwan Normal University- Gongguan Campus)</description>
+<Point>
+<coordinates>121.537188,25.007528,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xingfong Park</name>
+<Snippet>The N.W. side of Ln. 123, Sec. 2, Xinglong Rd. &amp; Sec. 2, Xinglong Rd.</Snippet>
+<description>The N.W. side of Ln. 123, Sec. 2, Xinglong Rd. &amp; Sec. 2, Xinglong Rd.</description>
+<Point>
+<coordinates>121.547778,24.999837,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Jingmei Sta.</name>
+<Snippet>The intersectionof Sec. 6, Roosevelt Rd. &amp; Jingzhong St.</Snippet>
+<description>The intersectionof Sec. 6, Roosevelt Rd. &amp; Jingzhong St.</description>
+<Point>
+<coordinates>121.541059,24.993254,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Roosevelt &amp; Jinglong Intersection</name>
+<Snippet>The intersection of Sec. 6, Roosevelt Rd. &amp; Jinglong St. (the S.E. side)</Snippet>
+<description>The intersection of Sec. 6, Roosevelt Rd. &amp; Jinglong St. (the S.E. side)</description>
+<Point>
+<coordinates>121.540197,24.999378,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei Pot Plant Auction</name>
+<Snippet>The N.W. side of Wansheng St. Sec. 1, Xinglong Rd.</Snippet>
+<description>The N.W. side of Wansheng St. Sec. 1, Xinglong Rd.</description>
+<Point>
+<coordinates>121.54074,25.004023,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Wenshan Dist. Admin. Center</name>
+<Snippet>No.220, Sec. 3, Muzha Rd.</Snippet>
+<description>No.220, Sec. 3, Muzha Rd.</description>
+<Point>
+<coordinates>121.569984,24.989902,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Muzha Sta.</name>
+<Snippet>No.18, Ln. 82, Sec. 4, Muzha Rd.</Snippet>
+<description>No.18, Ln. 82, Sec. 4, Muzha Rd.</description>
+<Point>
+<coordinates>121.574214,24.997747,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Taipei Zoo Sta.(Exit 2)</name>
+<Snippet>No.28, Sec. 2, Xinguang Rd.</Snippet>
+<description>No.28, Sec. 2, Xinguang Rd.</description>
+<Point>
+<coordinates>121.578752,24.997659,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nat’l Chengchi U.</name>
+<Snippet>No.6, Ln. 16, Wanshou Rd.</Snippet>
+<description>No.6, Ln. 16, Wanshou Rd.</description>
+<Point>
+<coordinates>121.576536,24.988363,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Examination Yuan</name>
+<Snippet>Shiyuan Rd. / Sec. 1, Muzha Rd.,</Snippet>
+<description>Shiyuan Rd. / Sec. 1, Muzha Rd.,</description>
+<Point>
+<coordinates>121.549827,24.987507,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei JingMei Girls High School</name>
+<Snippet>Sec. 3, Muxin Rd./Yishou St.</Snippet>
+<description>Sec. 3, Muxin Rd./Yishou St.</description>
+<Point>
+<coordinates>121.556177,24.980602,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei Wen Shan Sports Center</name>
+<Snippet>Sec. 3, Xinglong Rd./Aly. 8, Ln. 192, Sec. 3, Xinglong Rd.</Snippet>
+<description>Sec. 3, Xinglong Rd./Aly. 8, Ln. 192, Sec. 3, Xinglong Rd.</description>
+<Point>
+<coordinates>121.559651,24.996842,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mucha Guanghui Intersection</name>
+<Snippet>No.290, Sec. 1, Muzha Rd.</Snippet>
+<description>No.290, Sec. 1, Muzha Rd.</description>
+<Point>
+<coordinates>121.555610,24.988241,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Xinhai Sta.</name>
+<Snippet>No.114, Sec. 4, Xinhai Rd.</Snippet>
+<description>No.114, Sec. 4, Xinhai Rd.</description>
+<Point>
+<coordinates>121.55716,25.005386,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Wanfang Community Sta.</name>
+<Snippet>No.60, Wanfang Rd. (west side)</Snippet>
+<description>No.60, Wanfang Rd. (west side)</description>
+<Point>
+<coordinates>121.567474,24.998956,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Wenshan 2nd District Office</name>
+<Snippet>No.30, Ln. 130, Sec. 2, Xinglong Rd. (opposite)</Snippet>
+<description>No.30, Ln. 130, Sec. 2, Xinglong Rd. (opposite)</description>
+<Point>
+<coordinates>121.551418,25.001149,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Mucha Park</name>
+<Snippet>No.50, Sec. 4, Xinglong Rd.</Snippet>
+<description>No.50, Sec. 4, Xinglong Rd.</description>
+<Point>
+<coordinates>121.560627,24.987144,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>YONG AN ART CENTER - Performing Arts School 36</name>
+<Snippet>No.156, Sec. 2, Muxin Rd.</Snippet>
+<description>No.156, Sec. 2, Muxin Rd.</description>
+<Point>
+<coordinates>121.569064,24.984144,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhongshun Public Places</name>
+<Snippet>No.22, Sec. 2, Zhongshun St.</Snippet>
+<description>No.22, Sec. 2, Zhongshun St.</description>
+<Point>
+<coordinates>121.563125,24.984707,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Wanhe Park No. 2</name>
+<Snippet>No.255, Wanlong St.(oppsite)</Snippet>
+<description>No.255, Wanlong St.(oppsite)</description>
+<Point>
+<coordinates>121.536446,25.001545,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Wanlong Sta.(Exit.1)</name>
+<Snippet>Sec. 5, Roosevelt Rd. / Ln. 236, Sec. 5, Roosevelt Rd. intersection</Snippet>
+<description>Sec. 5, Roosevelt Rd. / Ln. 236, Sec. 5, Roosevelt Rd. intersection</description>
+<Point>
+<coordinates>121.539037,25.001447,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jingwen High School</name>
+<Snippet>Baoyi Rd. / Ln. 102, Sec. 3, Muzha Rd. ( Intersection )</Snippet>
+<description>Baoyi Rd. / Ln. 102, Sec. 3, Muzha Rd. ( Intersection )</description>
+<Point>
+<coordinates>121.567855,24.986301,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Shih Hsin University</name>
+<Snippet>No.1, Ln. 17, Sec. 1, Muzha Rd.</Snippet>
+<description>No.1, Ln. 17, Sec. 1, Muzha Rd.</description>
+<Point>
+<coordinates>121.543610,24.988620,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Datong Dist.</name>
+<Placemark>
+<name>Jiuquan &amp; Yanping Intersection</name>
+<Snippet>The N.W. side of Sec. 4, Yanping N. Rd. &amp; Jiuquan St.</Snippet>
+<description>The N.W. side of Sec. 4, Yanping N. Rd. &amp; Jiuquan St.</description>
+<Point>
+<coordinates>121.510195,25.072228,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Yuanshan Sta. (Exit 2)</name>
+<Snippet>The S.E. side of Sec. 3, Chengde Rd. &amp; Kulun St.</Snippet>
+<description>The S.E. side of Sec. 3, Chengde Rd. &amp; Kulun St.</description>
+<Point>
+<coordinates>121.519287,25.071824,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Minquan W.Rd. Sta.(Exit 3)</name>
+<Snippet>The opposite of No.37, Ln. 70, Minquan W. Rd.</Snippet>
+<description>The opposite of No.37, Ln. 70, Minquan W. Rd.</description>
+<Point>
+<coordinates>121.520205,25.061285,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Shuanglian Sta. (Exit 2)</name>
+<Snippet>The N.E. side of Minsheng W. Rd. &amp; Wanquan St.</Snippet>
+<description>The N.E. side of Minsheng W. Rd. &amp; Wanquan St.</description>
+<Point>
+<coordinates>121.520711,25.057866,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei Confucius Temple</name>
+<Snippet>The N.E. side of Ln. 59, Hami St. &amp; Hami St.</Snippet>
+<description>The N.E. side of Ln. 59, Hami St. &amp; Hami St.</description>
+<Point>
+<coordinates>121.515843,25.073306,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yongle Market</name>
+<Snippet>Minle St., Datong Dist./Ln. 233, Nanjing W. Rd.</Snippet>
+<description>Minle St., Datong Dist./Ln. 233, Nanjing W. Rd.</description>
+<Point>
+<coordinates>121.510549,25.054501,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Daqiaotou Sta. (Exit 2)</name>
+<Snippet>Minquan W. Rd./ Sec. 3, Chongqing N. Rd.</Snippet>
+<description>Minquan W. Rd./ Sec. 3, Chongqing N. Rd.</description>
+<Point>
+<coordinates>121.512909,25.063404,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Shude Park</name>
+<Snippet>Dalong St. / Ln. 85, Dalong St.</Snippet>
+<description>Dalong St. / Ln. 85, Dalong St.</description>
+<Point>
+<coordinates>121.516149,25.066688,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jiang Wei-shui Memorial Park</name>
+<Snippet>No.51, Jinxi St., Datong Dist.</Snippet>
+<description>No.51, Jinxi St., Datong Dist.</description>
+<Point>
+<coordinates>121.516299,25.059885,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Zhongshan Sta. (Exit 4)</name>
+<Snippet>Nanjing W. Rd. / Ln. 25, Nanjing W. Rd.</Snippet>
+<description>Nanjing W. Rd. / Ln. 25, Nanjing W. Rd.</description>
+<Point>
+<coordinates>121.52029,25.053082,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yuanhuan</name>
+<Snippet>Nanjing W. Rd./Sec. 1, Chongqing N. Rd.</Snippet>
+<description>Nanjing W. Rd./Sec. 1, Chongqing N. Rd.</description>
+<Point>
+<coordinates>121.514549,25.053884,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Beimen Sta. (Exit.3)</name>
+<Snippet>Zhengzhou Rd./Tacheng St.(southwest)</Snippet>
+<description>Zhengzhou Rd./Tacheng St.(southwest)</description>
+<Point>
+<coordinates>121.510367,25.049930,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dadaocheng Park</name>
+<Snippet>No.15, Ln. 1, Anxi St. (opposite)</Snippet>
+<description>No.15, Ln. 1, Anxi St. (opposite)</description>
+<Point>
+<coordinates>121.510512,25.059162,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Civic &amp; Taiyuan Intersection</name>
+<Snippet>No.23, Zhengzhou Rd. (east side)</Snippet>
+<description>No.23, Zhengzhou Rd. (east side)</description>
+<Point>
+<coordinates>121.514611,25.049394,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei City Hospital (Zhongxing Branch)</name>
+<Snippet>No.299-2, Chang’an W. Rd.(oppsite)</Snippet>
+<description>No.299-2, Chang’an W. Rd.(oppsite)</description>
+<Point>
+<coordinates>121.507979,25.052096,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taiyuan &amp; Wuyuan Intersection</name>
+<Snippet>Taiyuan Rd. / Wuyuan Rd. Intersection</Snippet>
+<description>Taiyuan Rd. / Wuyuan Rd. Intersection</description>
+<Point>
+<coordinates>121.516976,25.056458,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ln. 8,Sec. 3,Chengde Rd.</name>
+<Snippet>No.12, Sec. 3, Chengde Rd.</Snippet>
+<description>No.12, Sec. 3, Chengde Rd.</description>
+<Point>
+<coordinates>121.518150,25.063820,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chongcing Junior High School</name>
+<Snippet>No.68, Dunhuang Rd.</Snippet>
+<description>No.68, Dunhuang Rd.</description>
+<Point>
+<coordinates>121.518160,25.075810,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chongqing &amp; Jiuquan Intersection</name>
+<Snippet>No.272, Sec. 3, Chongqing N. Rd.</Snippet>
+<description>No.272, Sec. 3, Chongqing N. Rd.</description>
+<Point>
+<coordinates>121.513640,25.071830,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Minquan &amp; Dihua Intersection</name>
+<Snippet>No.351, Sec. 1, Dihua St.</Snippet>
+<description>No.351, Sec. 1, Dihua St.</description>
+<Point>
+<coordinates>121.509440,25.063180,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Chongqing &amp; Minzu Intersection</name>
+<Snippet>No.154, Sec. 3, Chongqing N. Rd.</Snippet>
+<description>No.154, Sec. 3, Chongqing N. Rd.</description>
+<Point>
+<coordinates>121.513590,25.068250,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Shilin Dist.</name>
+<Placemark>
+<name>MRT Jiantan Sta.(Exit 2)</name>
+<Snippet>The opposite of No.18, Jihe Rd.</Snippet>
+<description>The opposite of No.18, Jihe Rd.</description>
+<Point>
+<coordinates>121.524721,25.082825,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lanya Park</name>
+<Snippet>Sec. 2, Zhongcheng Rd. &amp; Ln. 40, Sec. 2, Zhongcheng Rd.</Snippet>
+<description>Sec. 2, Zhongcheng Rd. &amp; Ln. 40, Sec. 2, Zhongcheng Rd.</description>
+<Point>
+<coordinates>121.530386,25.109908,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fulin Park</name>
+<Snippet>Zhicheng St. &amp; Zhongzheng Rd.</Snippet>
+<description>Zhicheng St. &amp; Zhongzheng Rd.</description>
+<Point>
+<coordinates>121.530215,25.096122,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tienmu Sports Park</name>
+<Snippet>Sec.2,Zhongcheng Rd./Ln.207,Sec.2,Zhongcheng Rd.</Snippet>
+<description>Sec.2,Zhongcheng Rd./Ln.207,Sec.2,Zhongcheng Rd.</description>
+<Point>
+<coordinates>121.534136,25.116325,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lanxing Park</name>
+<Snippet>Sec.6, Zhongshan N. Rd / Shidong Rd</Snippet>
+<description>Sec.6, Zhongshan N. Rd / Shidong Rd</description>
+<Point>
+<coordinates>121.525888,25.111839,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Zhishan Sta.(Exit 2)</name>
+<Snippet>Fuhua Rd. / Ln. 162, Fuhua Rd.</Snippet>
+<description>Fuhua Rd. / Ln. 162, Fuhua Rd.</description>
+<Point>
+<coordinates>121.522629,25.10336,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Shilin Sta.(Exit 2)</name>
+<Snippet>Ln. 247, Zhongzheng Rd. / Ln. 505, Sec. 5, Zhongshan N. Rd.</Snippet>
+<description>Ln. 247, Zhongzheng Rd. / Ln. 505, Sec. 5, Zhongshan N. Rd.</description>
+<Point>
+<coordinates>121.526556,25.092546,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Shilin Sports Center</name>
+<Snippet>Sec. 4, Chengde Rd./Danan Rd.</Snippet>
+<description>Sec. 4, Chengde Rd./Danan Rd.</description>
+<Point>
+<coordinates>121.521814,25.089175,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bailing Elementary School</name>
+<Snippet>Ln. 100, Qiangang St. / Qiangang St.</Snippet>
+<description>Ln. 100, Qiangang St. / Qiangang St.</description>
+<Point>
+<coordinates>121.519175,25.08521,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhongzheng &amp; Jihe Intersection</name>
+<Snippet>No.420, Zhongzheng Rd.</Snippet>
+<description>No.420, Zhongzheng Rd.</description>
+<Point>
+<coordinates>121.519867,25.093396,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei Astronomical Museum</name>
+<Snippet>No.363, Jihe Rd.</Snippet>
+<description>No.363, Jihe Rd.</description>
+<Point>
+<coordinates>121.518046,25.095714,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hulu Elementary School</name>
+<Snippet>Sec. 3, Huanhe N. Rd./Hulu St.</Snippet>
+<description>Sec. 3, Huanhe N. Rd./Hulu St.</description>
+<Point>
+<coordinates>121.507495,25.082538,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yanping Public Housing</name>
+<Snippet>No.40, Ln. 1, Sec. 5, Yanping N. Rd.</Snippet>
+<description>No.40, Ln. 1, Sec. 5, Yanping N. Rd.</description>
+<Point>
+<coordinates>121.510306,25.078908,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei Municipal Shezi Elementary School</name>
+<Snippet>Sec. 6, Yanping N. Rd./Shezhong St.</Snippet>
+<description>Sec. 6, Yanping N. Rd./Shezhong St.</description>
+<Point>
+<coordinates>121.501890,25.090293,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>University of Taipei Tianmu Campus</name>
+<Snippet>No.276 to No. 280, Shidong Rd., (opposite)</Snippet>
+<description>No.276 to No. 280, Shidong Rd., (opposite)</description>
+<Point>
+<coordinates>121.537420,25.113625,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fu-an Junior Hight School</name>
+<Snippet>No.250, Sec. 7, Yanping N. Rd.</Snippet>
+<description>No.250, Sec. 7, Yanping N. Rd.</description>
+<Point>
+<coordinates>121.487477,25.103242,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lanya Elementary School</name>
+<Snippet>No.80 to No.82, Huangxi St. (opposite)</Snippet>
+<description>No.80 to No.82, Huangxi St. (opposite)</description>
+<Point>
+<coordinates>121.523107,25.107782,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Shezheng Park</name>
+<Snippet>No.43, Shezhong St. (opposite)</Snippet>
+<description>No.43, Shezhong St. (opposite)</description>
+<Point>
+<coordinates>121.510535,25.088243,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhongshan &amp; Tianmu Intersection</name>
+<Snippet>No.3-55, Tianmu W. Rd.</Snippet>
+<description>No.3-55, Tianmu W. Rd.</description>
+<Point>
+<coordinates>121.529738,25.118843,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Shezi Park</name>
+<Snippet>Aly. 37, Ln. 20, Yongping St./Aly. 11, Ln. 20, Yongping St.</Snippet>
+<description>Aly. 37, Ln. 20, Yongping St./Aly. 11, Ln. 20, Yongping St.</description>
+<Point>
+<coordinates>121.506219,25.090202,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>National Palace Museum</name>
+<Snippet>No.155, Sec. 2, Zhishan Rd.(oppsite)</Snippet>
+<description>No.155, Sec. 2, Zhishan Rd.(oppsite)</description>
+<Point>
+<coordinates>121.548086,25.098743,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Hualing Park</name>
+<Snippet>No.80, Jiantan Rd.(oppsite)</Snippet>
+<description>No.80, Jiantan Rd.(oppsite)</description>
+<Point>
+<coordinates>121.520692,25.083023,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhishan Pumping Sta.</name>
+<Snippet>No.80, Sec. 2, Zhicheng Rd.(oppsite)</Snippet>
+<description>No.80, Sec. 2, Zhicheng Rd.(oppsite)</description>
+<Point>
+<coordinates>121.527990,25.101423,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhongshan &amp; Zhongzheng  Intersection</name>
+<Snippet>No.609 to No.625, Sec. 5, Zhongshan N. Rd.</Snippet>
+<description>No.609 to No.625, Sec. 5, Zhongshan N. Rd.</description>
+<Point>
+<coordinates>121.527526,25.096507,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhishan Linxi Intersection</name>
+<Snippet>Sec. 1, Zhishan Rd./ Linxi Rd. intersection</Snippet>
+<description>Sec. 1, Zhishan Rd./ Linxi Rd. intersection</description>
+<Point>
+<coordinates>121.542153,25.097103,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yu Nong Elementary School</name>
+<Snippet>No.6, Zhongyi St.(oppsite)</Snippet>
+<description>No.6, Zhongyi St.(oppsite)</description>
+<Point>
+<coordinates>121.529217,25.105429,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhishan Elementary School</name>
+<Snippet>Dexing E. Rd./Ln. 283, Dexing E. Rd.Intersection(northeast)</Snippet>
+<description>Dexing E. Rd./Ln. 283, Dexing E. Rd.Intersection(northeast)</description>
+<Point>
+<coordinates>121.535954,25.110437,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Shilin New Village</name>
+<Snippet>No.325, Danan Rd.</Snippet>
+<description>No.325, Danan Rd.</description>
+<Point>
+<coordinates>121.517320,25.089034,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Huasheng Park</name>
+<Snippet>No.17, Huasheng St.</Snippet>
+<description>No.17, Huasheng St.</description>
+<Point>
+<coordinates>121.522096,25.096166,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei Public Library Huludu Branch</name>
+<Snippet>No.4, Ln. 136, Sec. 5, Zhongshan N. Rd.(oppsite)</Snippet>
+<description>No.4, Ln. 136, Sec. 5, Zhongshan N. Rd.(oppsite)</description>
+<Point>
+<coordinates>121.510800,25.082210,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Zhishan Sta.(Exit.1)</name>
+<Snippet>Wenlin Rd. / Fuhua Rd. Intersection</Snippet>
+<description>Wenlin Rd. / Fuhua Rd. Intersection</description>
+<Point>
+<coordinates>121.522430,25.100940,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yangming High School</name>
+<Snippet>No.510, Zhongzheng Rd.</Snippet>
+<description>No.510, Zhongzheng Rd.</description>
+<Point>
+<coordinates>121.516690,25.091570,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ming Chuan University</name>
+<Snippet>No.250, Sec. 5, Zhongshan N. Rd.</Snippet>
+<description>No.250, Sec. 5, Zhongshan N. Rd.</description>
+<Point>
+<coordinates>121.526766,25.087714,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Neihu Dist.</name>
+<Placemark>
+<name>Wenhu Elementary School</name>
+<Snippet>The N.E. side of Ln. 21, Wenhu St. &amp; Wenhu St.</Snippet>
+<description>The N.E. side of Ln. 21, Wenhu St. &amp; Wenhu St.</description>
+<Point>
+<coordinates>121.560888,25.086376,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Gangqian Sta. (Exit 2)</name>
+<Snippet>Sec. 1, Neihu Rd./Gangqian Rd. (southeast)</Snippet>
+<description>Sec. 1, Neihu Rd./Gangqian Rd. (southeast)</description>
+<Point>
+<coordinates>121.575458,25.079681,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Donghu Junior High School</name>
+<Snippet>Kangle St./Ln. 125, Kangle St.</Snippet>
+<description>Kangle St./Ln. 125, Kangle St.</description>
+<Point>
+<coordinates>121.619521,25.073277,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Wende Sta. (Exit 2)</name>
+<Snippet>Ln. 220, Wende Rd./Wende Rd.</Snippet>
+<description>Ln. 220, Wende Rd./Wende Rd.</description>
+<Point>
+<coordinates>121.585264,25.078292,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhouzhi Park No.2</name>
+<Snippet>Opposite to the parking space No.500, Ruiguang Rd.</Snippet>
+<description>Opposite to the parking space No.500, Ruiguang Rd.</description>
+<Point>
+<coordinates>121.568688,25.079322,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ruiguang &amp; Gangqian Intersection</name>
+<Snippet>Ruiguang Rd. / Gangqian Rd.</Snippet>
+<description>Ruiguang Rd. / Gangqian Rd.</description>
+<Point>
+<coordinates>121.57505,25.076193,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Donghu Elementary School</name>
+<Snippet>Donghu Rd. / Ln. 119, Donghu Rd.</Snippet>
+<description>Donghu Rd. / Ln. 119, Donghu Rd.</description>
+<Point>
+<coordinates>121.615938,25.068409,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lishan Elementary School</name>
+<Snippet>Ln. 411, Sec. 1, Neihu Rd. / Aly. 19, Ln. 411, Sec. 1, Neihu Rd.</Snippet>
+<description>Ln. 411, Sec. 1, Neihu Rd. / Aly. 19, Ln. 411, Sec. 1, Neihu Rd.</description>
+<Point>
+<coordinates>121.571467,25.082703,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Donghu Sta.</name>
+<Snippet>Ln. 315, Ankang Rd./Ln. 14, Wufen St.</Snippet>
+<description>Ln. 315, Ankang Rd./Ln. 14, Wufen St.</description>
+<Point>
+<coordinates>121.613505,25.066635,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Xihu Sta. (Exit 1)</name>
+<Snippet>Ln. 9, Sec. 1, Huanshan Rd./Ln. 285, Sec. 1, Neihu Rd.</Snippet>
+<description>Ln. 9, Sec. 1, Huanshan Rd./Ln. 285, Sec. 1, Neihu Rd.</description>
+<Point>
+<coordinates>121.566695,25.082866,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fuhua Market</name>
+<Snippet>Sec. 6, Minquan E. Rd./Ln. 180, Sec. 6, Minquan E. Rd.</Snippet>
+<description>Sec. 6, Minquan E. Rd./Ln. 180, Sec. 6, Minquan E. Rd.</description>
+<Point>
+<coordinates>121.592654,25.068770,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>JinRui Park</name>
+<Snippet>No.7, Aly. 1, Ln. 213, Jinlong Rd.</Snippet>
+<description>No.7, Aly. 1, Ln. 213, Jinlong Rd.</description>
+<Point>
+<coordinates>121.587821,25.087848,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Dahu Park Sta. (Exit 2)</name>
+<Snippet>Sec. 5, Chenggong Rd./Dahu Shanzhuang St.</Snippet>
+<description>Sec. 5, Chenggong Rd./Dahu Shanzhuang St.</description>
+<Point>
+<coordinates>121.601854,25.083945,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Huzhou Sta. (Exit 1)</name>
+<Snippet>Sec. 3, Kangning Rd./Aly. 21, Ln. 450, Sec. 5, Chenggong Rd.</Snippet>
+<description>Sec. 3, Kangning Rd./Aly. 21, Ln. 450, Sec. 5, Chenggong Rd.</description>
+<Point>
+<coordinates>121.607955,25.072485,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xinhu Elementary School</name>
+<Snippet>Sec. 6, Minquan E. Rd./Aly. 31, Ln. 320, Sec. 2, Chenggong Rd.</Snippet>
+<description>Sec. 6, Minquan E. Rd./Aly. 31, Ln. 320, Sec. 2, Chenggong Rd.</description>
+<Point>
+<coordinates>121.589233,25.068744,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xingyun &amp; Jinhu Intersection</name>
+<Snippet>No.11, Ln. 210, Xingyun St.</Snippet>
+<description>No.11, Ln. 210, Xingyun St.</description>
+<Point>
+<coordinates>121.597339,25.080915,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Jihe First Phase Republic Housing</name>
+<Snippet>No.131 to No.137, Sec. 6, Nanjing E. Rd. (opposite)</Snippet>
+<description>No.131 to No.137, Sec. 6, Nanjing E. Rd. (opposite)</description>
+<Point>
+<coordinates>121.578645,25.055935,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Taipei Flowers Auction</name>
+<Snippet>No.28, Xinhu 3rd Rd.</Snippet>
+<description>No.28, Xinhu 3rd Rd.</description>
+<Point>
+<coordinates>121.574267,25.062645,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>LiShan High School</name>
+<Snippet>No.131, Sec. 2, Huanshan Rd. (opposite)</Snippet>
+<description>No.131, Sec. 2, Huanshan Rd. (opposite)</description>
+<Point>
+<coordinates>121.576680,25.084244,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Huguang Republic Housing</name>
+<Snippet>No.67, Ln. 22, Wende Rd. (opposite)</Snippet>
+<description>No.67, Ln. 22, Wende Rd. (opposite)</description>
+<Point>
+<coordinates>121.580811,25.075366,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ruihu &amp; Yangguang Intersection</name>
+<Snippet>No.101, Ruihu St. (opposite)</Snippet>
+<description>No.101, Ruihu St. (opposite)</description>
+<Point>
+<coordinates>121.575965,25.073119,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ln. 321, Xinming Rd.</name>
+<Snippet>No.323, Xinming Rd.</Snippet>
+<description>No.323, Xinming Rd.</description>
+<Point>
+<coordinates>121.584098,25.056687,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Minquan &amp; Ruiguang Intersection</name>
+<Snippet>No.50, Sec. 6, Minquan E. Rd.</Snippet>
+<description>No.50, Sec. 6, Minquan E. Rd.</description>
+<Point>
+<coordinates>121.583991,25.068616,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zhouzhi Park No.1</name>
+<Snippet>No.32, Jihu Rd.</Snippet>
+<description>No.32, Jihu Rd.</description>
+<Point>
+<coordinates>121.564806,25.080258,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Tri-Service General Hospital</name>
+<Snippet>Sec. 2, Chenggong Rd./Ln. 323, Sec. 2, Chenggong Rd.(Intersection)</Snippet>
+<description>Sec. 2, Chenggong Rd./Ln. 323, Sec. 2, Chenggong Rd.(Intersection)</description>
+<Point>
+<coordinates>121.590304,25.070723,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rotary Park</name>
+<Snippet>No.13-15, Sec. 6, Minquan E. Rd.</Snippet>
+<description>No.13-15, Sec. 6, Minquan E. Rd.</description>
+<Point>
+<coordinates>121.579833,25.066997,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MingMei Park</name>
+<Snippet>Shitan Rd./Ln. 451, Sec. 6, Nanjing E. Rd. intersection(southwest)</Snippet>
+<description>Shitan Rd./Ln. 451, Sec. 6, Nanjing E. Rd. intersection(southwest)</description>
+<Point>
+<coordinates>121.586065,25.062557,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Takming University of Science and Technology</name>
+<Snippet>No.56, Sec. 1, Huanshan Rd.</Snippet>
+<description>No.56, Sec. 1, Huanshan Rd.</description>
+<Point>
+<coordinates>121.565713,25.086372,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ln. 83, Antai St.</name>
+<Snippet>No.3, Ln. 83, Antai St. ( oppsite )</Snippet>
+<description>No.3, Ln. 83, Antai St. ( oppsite )</description>
+<Point>
+<coordinates>121.617085,25.076691,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bishan Park</name>
+<Snippet>No.1, Aly. 8, Ln. 60, Sec. 3, Neihu Rd.</Snippet>
+<description>No.1, Aly. 8, Ln. 60, Sec. 3, Neihu Rd.</description>
+<Point>
+<coordinates>121.592253,25.087413,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Neihu Sta.(Exit.1)</name>
+<Snippet>Sec. 4, Chenggong Rd. / Jinlong Rd. intersection</Snippet>
+<description>Sec. 4, Chenggong Rd. / Jinlong Rd. intersection</description>
+<Point>
+<coordinates>121.594840,25.084135,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ln. 368, Sec. 6, Nanjing E. Rd.</name>
+<Snippet>No.30, Ln. 368, Sec. 6, Nanjing E. Rd.</Snippet>
+<description>No.30, Ln. 368, Sec. 6, Nanjing E. Rd.</description>
+<Point>
+<coordinates>121.587070,25.058270,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rainbow Bridge</name>
+<Snippet>No.27, Tanmei St.</Snippet>
+<description>No.27, Tanmei St.</description>
+<Point>
+<coordinates>121.575920,25.053010,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bihu Park</name>
+<Snippet>Sec. 2, Neihu Rd. / Ln. 103, Sec. 2, Neihu Rd. intersection</Snippet>
+<description>Sec. 2, Neihu Rd. / Ln. 103, Sec. 2, Neihu Rd. intersection</description>
+<Point>
+<coordinates>121.582870,25.079880,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+<Folder>
+<name>Beitou Dist.</name>
+<Placemark>
+<name>MRT Xinbeitou Sta.</name>
+<Snippet>Daye Rd. &amp; Zhonghe St.  Intersection</Snippet>
+<description>Daye Rd. &amp; Zhonghe St.  Intersection</description>
+<Point>
+<coordinates>121.503124,25.137456,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Beitou Sta.</name>
+<Snippet>Ln. 2, Guangming Rd. &amp; Guangming Rd.  Intersection</Snippet>
+<description>Ln. 2, Guangming Rd. &amp; Guangming Rd.  Intersection</description>
+<Point>
+<coordinates>121.498618,25.132581,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Daye &amp; Datong Intersection</name>
+<Snippet>Daye Rd. &amp; Datong St.  Intersection</Snippet>
+<description>Daye Rd. &amp; Datong St.  Intersection</description>
+<Point>
+<coordinates>121.499152,25.136929,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Zenhua Park</name>
+<Snippet>No.36, Zhenhua St.</Snippet>
+<description>No.36, Zhenhua St.</description>
+<Point>
+<coordinates>121.518163,25.115863,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Shipai Sta. (Exit 2)</name>
+<Snippet>Sec. 1, Donghua St. / Yumin 2nd Rd.</Snippet>
+<description>Sec. 1, Donghua St. / Yumin 2nd Rd.</description>
+<Point>
+<coordinates>121.515677,25.114513,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>NTUNHS</name>
+<Snippet>Ln. 130, Sec. 2, Shipai Rd. / Sec. 2, Shipai Rd.</Snippet>
+<description>Ln. 130, Sec. 2, Shipai Rd. / Sec. 2, Shipai Rd.</description>
+<Point>
+<coordinates>121.517512,25.118049,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Nat’l Defense U.</name>
+<Snippet>Sec. 2, Zhongyang N. Rd. / Sec. 2, Fengnian Rd.</Snippet>
+<description>Sec. 2, Zhongyang N. Rd. / Sec. 2, Fengnian Rd.</description>
+<Point>
+<coordinates>121.493066,25.137976,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Mingde Sta.</name>
+<Snippet>Ln. 46, Sec. 1, Zhiyuan 1st Rd./Sec. 1, Xi’an St.</Snippet>
+<description>Ln. 46, Sec. 1, Zhiyuan 1st Rd./Sec. 1, Xi’an St.</description>
+<Point>
+<coordinates>121.518316,25.110331,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Beitou Sports Center</name>
+<Snippet>No.100, Ln. 39, Sec. 1, Shipai Rd.</Snippet>
+<description>No.100, Ln. 39, Sec. 1, Shipai Rd.</description>
+<Point>
+<coordinates>121.509621,25.116665,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dafong Park</name>
+<Snippet>Huanggang Rd. / Daxing St.</Snippet>
+<description>Huanggang Rd. / Daxing St.</description>
+<Point>
+<coordinates>121.503768,25.131143,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Qiyan Sta.</name>
+<Snippet>Sec. 1, Beitou Rd./Sec. 2, Sanhe St.</Snippet>
+<description>Sec. 1, Beitou Rd./Sec. 2, Sanhe St.</description>
+<Point>
+<coordinates>121.500801,25.126286,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Qilian Sta. (Exit 2)</name>
+<Snippet>Sec. 2, Xi'an St./Ln. 257,Sec. 2, Linong St.</Snippet>
+<description>Sec. 2, Xi'an St./Ln. 257,Sec. 2, Linong St.</description>
+<Point>
+<coordinates>121.505693,25.120788,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Guandu Sta.</name>
+<Snippet>Ln. 270, Sec. 3, Dadu Rd./Ln. 55, Ligong St.</Snippet>
+<description>Ln. 270, Sec. 3, Dadu Rd./Ln. 55, Ligong St.</description>
+<Point>
+<coordinates>121.467336,25.124646,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Fuxinggang Sta.</name>
+<Snippet>No.17-1, Sec. 3, Zhongyang N. Rd. (opposite)</Snippet>
+<description>No.17-1, Sec. 3, Zhongyang N. Rd. (opposite)</description>
+<Point>
+<coordinates>121.486071,25.137837,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Qingjiang Elementary School</name>
+<Snippet>Sec. 1, Sanhe St./Gongguan Rd.</Snippet>
+<description>Sec. 1, Sanhe St./Gongguan Rd.</description>
+<Point>
+<coordinates>121.507267,25.127400,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MRT Zhongyi Sta.</name>
+<Snippet>No.262, Sec. 4, Zhongyang N. Rd. (opposite)</Snippet>
+<description>No.262, Sec. 4, Zhongyang N. Rd. (opposite)</description>
+<Point>
+<coordinates>121.474155,25.131411,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Yongxin Green Area</name>
+<Snippet>No.1, Xingyi Rd. (opposite)</Snippet>
+<description>No.1, Xingyi Rd. (opposite)</description>
+<Point>
+<coordinates>121.526071,25.124162,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Guandu Nature Park</name>
+<Snippet>No.68, Guandu Rd. (opposite)</Snippet>
+<description>No.68, Guandu Rd. (opposite)</description>
+<Point>
+<coordinates>121.469138,25.119292,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kuantu Temple</name>
+<Snippet>No.223-5, Sec. 3, Dadu Rd.</Snippet>
+<description>No.223-5, Sec. 3, Dadu Rd.</description>
+<Point>
+<coordinates>121.463161,25.117472,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ligong Lide Intersection</name>
+<Snippet>Ligong St./Lide Rd.</Snippet>
+<description>Ligong St./Lide Rd.</description>
+<Point>
+<coordinates>121.471482,25.125377,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Xiushan Community Center</name>
+<Snippet>No.50, Xiushan Rd.</Snippet>
+<description>No.50, Xiushan Rd.</description>
+<Point>
+<coordinates>121.493009,25.145936,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ln. 30, Sec. 4, Zhongyang N. Rd.</name>
+<Snippet>No.8, Ln. 30, Sec. 4, Zhongyang N. Rd.</Snippet>
+<description>No.8, Ln. 30, Sec. 4, Zhongyang N. Rd.</description>
+<Point>
+<coordinates>121.478000,25.135394,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Ln. 540, Sec. 4, Zhongyang N. Rd.</name>
+<Snippet>No.529, Sec. 4, Zhongyang N. Rd.</Snippet>
+<description>No.529, Sec. 4, Zhongyang N. Rd.</description>
+<Point>
+<coordinates>121.467700,25.127959,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Wenlin &amp; Jianmin Intersection</name>
+<Snippet>No.224 - 238, Wenlin N. Rd.</Snippet>
+<description>No.224 - 238, Wenlin N. Rd.</description>
+<Point>
+<coordinates>121.514680,25.107790,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Cheng Hsin General Hospital</name>
+<Snippet>No.41, Zhenxing St. / No.41, Mingde Rd. intersection</Snippet>
+<description>No.41, Zhenxing St. / No.41, Mingde Rd. intersection</description>
+<Point>
+<coordinates>121.522200,25.117700,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>National Yang-Ming University</name>
+<Snippet>No.136, Sec. 2, Donghua St.</Snippet>
+<description>No.136, Sec. 2, Donghua St.</description>
+<Point>
+<coordinates>121.512230,25.119120,0.000000</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fengnian Park</name>
+<Snippet>No.539, Daye Rd.</Snippet>
+<description>No.539, Daye Rd.</description>
+<Point>
+<coordinates>121.496610,25.135300,0.000000</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
