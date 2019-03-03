@@ -24,6 +24,8 @@ OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 package com.beck.tool;
 
+import static com.beck.kml.source.KMLSource.unGzip;
+
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;
 import java.awt.Insets;
@@ -32,35 +34,41 @@ import java.awt.event.ActionListener;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.io.File;
+import java.io.InputStream;
+import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.io.StringWriter;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.net.URLConnection;
+import java.nio.file.Files;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Optional;
+import java.util.stream.Stream;
 
+import javax.swing.JLabel;
 import javax.swing.*;
+
+import com.beck.kml.model.Placemark;
+import com.beck.kml.source.KMLSource;
+import com.beck.kml.source.KMLSourceFactory;
+import com.beck.kml.source.YoubikeKML;
 
 public class YoubikeKMLUI extends JPanel {
 	private static final long serialVersionUID = 4773652794390020385L;
 
-	private final String[] URLS = new String[] {"http://data.taipei/youbike",
-			"http://ntpc.youbike.com.tw/cht/f12.php",
-			"http://ntpc.youbike.com.tw/en/f12.php",
-			"http://tycg.youbike.com.tw/cht/f12.php",
-			"http://tycg.youbike.com.tw/en/f12.php",
-			"http://hccg.youbike.com.tw/cht/f12.php",
-			"http://hccg.youbike.com.tw/en/f12.php",
-			"http://i.youbike.com.tw/cht/f12.php",
-			"http://i.youbike.com.tw/en/f12.php",
-			"http://chcg.youbike.com.tw/cht/f12.php",
-			"http://chcg.youbike.com.tw/en/f12.php",
-			"http://taipei.youbike.com.tw/cht/f12.php"};
+	private final String[] URLS = new String[] {"ntpc", "taichung", "chcg", "tycg", "hccg", "sipa", "taipei"};
 	
-	private JTextArea txLog;
-	private JComboBox<String> cmbUrl;
-	private JCheckBox ckOutputEnglish;
-	private JRadioButton rdUrl;
-	private JRadioButton rdFile;
+	final private JTextArea txLog;
+	final private JComboBox<String> cmbUrl;
+	final private JComboBox<String> ckOutputEnglish;
+	final private JRadioButton rdOpenData;
+	final private JRadioButton rdUrl;
+	final private JRadioButton rdFile;
 	
 	private File inputFile;
 	private File outputFile;
@@ -68,9 +76,9 @@ public class YoubikeKMLUI extends JPanel {
 	public YoubikeKMLUI() {
 		GridBagLayout gridBagLayout = new GridBagLayout();
 		gridBagLayout.columnWidths = new int[] {65, 0, 0};
-		gridBagLayout.rowHeights = new int[]{23, 0, 0, 0, 0, 0};
+		gridBagLayout.rowHeights = new int[]{23, 0, 0, 0, 0, 0, 0};
 		gridBagLayout.columnWeights = new double[]{0.0, 1.0, Double.MIN_VALUE};
-		gridBagLayout.rowWeights = new double[]{0.0, 0.0, 0.0, 0.0, 1.0, Double.MIN_VALUE};
+		gridBagLayout.rowWeights = new double[]{0.0, 0.0, 0.0, 0.0, 0.0, 1.0, Double.MIN_VALUE};
 		setLayout(gridBagLayout);
 		
 		ButtonGroup buttonGroup = new ButtonGroup();
@@ -79,47 +87,56 @@ public class YoubikeKMLUI extends JPanel {
 		GridBagConstraints gbc_rdFile = new GridBagConstraints();
 		gbc_rdFile.gridwidth = 2;
 		gbc_rdFile.anchor = GridBagConstraints.NORTHWEST;
-		gbc_rdFile.insets = new Insets(0, 0, 5, 0);
 		gbc_rdFile.gridx = 0;
 		gbc_rdFile.gridy = 0;
 		add(rdFile, gbc_rdFile);
 		
-		rdUrl = new JRadioButton("Download from ");
-		rdUrl.setSelected(true);
+		rdOpenData = new JRadioButton("Download data of Taipei city (opendata)");
+		rdOpenData.setSelected(true);
+		buttonGroup.add(rdOpenData);
+		add(rdOpenData, new GridBagConstraints(0, 1,
+                2, 1, 0, 0,
+                GridBagConstraints.WEST, GridBagConstraints.NONE,
+                new Insets(0, 0, 0, 0), 0, 0));
+		
+		rdUrl = new JRadioButton("Download from official site, location:");
 		buttonGroup.add(rdUrl);
 		GridBagConstraints gbc_rdUrl = new GridBagConstraints();
 		gbc_rdUrl.anchor = GridBagConstraints.WEST;
-		gbc_rdUrl.insets = new Insets(0, 0, 5, 5);
+		gbc_rdUrl.insets = new Insets(0, 0, 0, 3);
 		gbc_rdUrl.gridx = 0;
-		gbc_rdUrl.gridy = 1;
+		gbc_rdUrl.gridy = 2;
 		add(rdUrl, gbc_rdUrl);
 		
 		cmbUrl = new JComboBox<String>();
 		cmbUrl.setEditable(true);
 		cmbUrl.setModel(new DefaultComboBoxModel<String>(URLS));
 		GridBagConstraints gbc_cmbUrl = new GridBagConstraints();
-		gbc_cmbUrl.insets = new Insets(0, 0, 5, 0);
 		gbc_cmbUrl.fill = GridBagConstraints.HORIZONTAL;
 		gbc_cmbUrl.gridx = 1;
-		gbc_cmbUrl.gridy = 1;
+		gbc_cmbUrl.gridy = 2;
 		add(cmbUrl, gbc_cmbUrl);
 		
-		ckOutputEnglish = new JCheckBox("Output English");
+		add(new JLabel("Data language:"), new GridBagConstraints(0, 3,
+                1, 1, 0, 0,
+                GridBagConstraints.EAST, GridBagConstraints.NONE,
+                new Insets(0, 0, 0, 7), 0, 0));
+		ckOutputEnglish = new JComboBox<String>();
+		ckOutputEnglish.setModel(new DefaultComboBoxModel<String>(new String[]{"tw","en"}));
 		GridBagConstraints gbc_chckbxNewCheckBox = new GridBagConstraints();
-		gbc_chckbxNewCheckBox.insets = new Insets(0, 0, 5, 0);
 		gbc_chckbxNewCheckBox.anchor = GridBagConstraints.WEST;
-		gbc_chckbxNewCheckBox.gridwidth = 2;
-		gbc_chckbxNewCheckBox.gridx = 0;
-		gbc_chckbxNewCheckBox.gridy = 2;
+		gbc_chckbxNewCheckBox.gridwidth = 1;
+		gbc_chckbxNewCheckBox.gridx = 1;
+		gbc_chckbxNewCheckBox.gridy = 3;
 		add(ckOutputEnglish, gbc_chckbxNewCheckBox);
 		
 		JButton btnNewButton = new JButton("Convert to KML");
 		GridBagConstraints gbc_btnNewButton = new GridBagConstraints();
-		gbc_btnNewButton.fill = GridBagConstraints.HORIZONTAL;
-		gbc_btnNewButton.insets = new Insets(0, 0, 5, 0);
+		//gbc_btnNewButton.fill = GridBagConstraints.HORIZONTAL;
+		gbc_btnNewButton.insets = new Insets(3, 10, 3, 10);
 		gbc_btnNewButton.gridwidth = 2;
 		gbc_btnNewButton.gridx = 0;
-		gbc_btnNewButton.gridy = 3;
+		gbc_btnNewButton.gridy = 4;
 		add(btnNewButton, gbc_btnNewButton);
 		
 		txLog = new JTextArea();
@@ -128,7 +145,7 @@ public class YoubikeKMLUI extends JPanel {
 		gbc_scrollPane.gridwidth = 2;
 		gbc_scrollPane.fill = GridBagConstraints.BOTH;
 		gbc_scrollPane.gridx = 0;
-		gbc_scrollPane.gridy = 4;
+		gbc_scrollPane.gridy = 5;
 		add(scrollPane, gbc_scrollPane);
 			
 		btnNewButton.addActionListener(new ActionListener() {
@@ -145,76 +162,61 @@ public class YoubikeKMLUI extends JPanel {
 	}
 	
 	private void selectInputFile() {
-		File nFile = openDialog(inputFile, "Select source data file");
-		if (nFile != null) {
-			inputFile = nFile;
+		openDialog(inputFile, "Select source data file").ifPresent(file -> {
+			inputFile = file;
 			rdFile.setText("Input file ["+inputFile.getAbsolutePath()+"]");
-		}
+		});
 	}
 	
-	private File openDialog(File f, String dialogTitle) {
-		JFileChooser dialog = new JFileChooser();
+	private Optional<File> openDialog(final File f, final String dialogTitle) {
+		final JFileChooser dialog = new JFileChooser();
 		dialog.setDialogTitle(dialogTitle);
 		if (f != null) {
 			dialog.setSelectedFile(f);
 		}
 		if (dialog.showDialog(getParent(), null) == JFileChooser.APPROVE_OPTION) {
-			return dialog.getSelectedFile();
+			return Optional.of(dialog.getSelectedFile());
 		}
-		return null;
-	}
-	
-	private String download(String  url) throws Exception {
-		URLConnection urlc = new URL(url).openConnection();
-		if (urlc instanceof HttpURLConnection) {
-			HttpURLConnection hconn = (HttpURLConnection)urlc;
-			hconn.setInstanceFollowRedirects(true);
-			if (hconn.getResponseCode() == HttpURLConnection.HTTP_MOVED_TEMP) {
-				String location = hconn.getHeaderField("Location");
-				if (location.indexOf("//") == -1) {
-					urlc = new URL(new URL(url), location).openConnection();
-				} else {
-					urlc = new URL(location).openConnection();
-				}
-			}
-		}
-		return YoubikeKML.extractJson(urlc.getInputStream());
+		return Optional.empty();
 	}
 	
 	private void convertKML() {
-		StringWriter sw = new StringWriter(256);
-		PrintWriter pw = new PrintWriter(sw);
+		final StringWriter sw = new StringWriter(256);
+		final PrintWriter pw = new PrintWriter(sw);
 		try {
-			YoubikeKML youbikeKML = new YoubikeKML();
-			String json = null;
+			final YoubikeKML youbikeKML = new YoubikeKML();
+			Map<String, String> options = new HashMap<>();
+			byte[] data = null;
 			if (rdFile.isSelected()) {
 				if (inputFile == null || !inputFile.exists()) {
-					pw.append("Input file does not exist");
+					pw.println("Input file does not exist");
 				} else {
-					pw.append("Try to read data from [").append(inputFile.getAbsolutePath()).println("]");
-					json = youbikeKML.read(inputFile);
+					pw.printf("Try to read data from [%s]\n", inputFile.getAbsolutePath());
+					data = Files.readAllBytes(inputFile.toPath());
 				}
+			} else if (rdOpenData.isSelected()){
+				data = download("http://data.taipei/youbike", null, null);
+				options.put("en", "true");
 			} else if (rdUrl.isSelected()){
-				String url = String.valueOf(cmbUrl.getSelectedItem());
-				pw.append("Try to download data from [").append(url).println("]");
-				json = download(url);
+				final String loc = String.valueOf(cmbUrl.getSelectedItem());
+				final String lang = String.valueOf(ckOutputEnglish.getSelectedItem());
+				pw.printf("Try to download data location=%s, lang=%s\n", loc, lang);
+				data = download("https://apis.youbike.com.tw/useAPI", "https://"+loc+".youbike.com.tw/station/list", "action=ub_site_by_sno_class&datas[lang]="+lang+"&datas[loc]="+loc);
 			}
-			if (json != null) {
+			if (data != null) {
+				final String json = new String(unGzip(data), "UTF-8");
 				if (outputFile == null) {
 					outputFile = new File("youbike.kml");
 				}
-				File fout = openDialog(outputFile, "Select output kml file");
-				if (fout == null) {
+				Optional<File> fout = openDialog(outputFile, "Select output kml file");
+				if (!fout.isPresent()) {
 					pw.println("Action canceled - output file must be selected");
 				} else {
-					outputFile = fout;
-					if (ckOutputEnglish.isSelected()) {
-						youbikeKML.outputEnglish();
-					}
-					youbikeKML.parse(json);
-					pw.append("parse complete - ").println(" stations found");;
-					youbikeKML.write(outputFile);
-					pw.append("Complete - output file [").append(outputFile.getAbsolutePath()).println("]");;
+					outputFile = fout.get();
+					final Collection<Placemark> list = youbikeKML.parse(json, options);
+					pw.println("parse complete - stations found");;
+					new KMLWriter(youbikeKML.getKMLName(), true).out(list).write(outputFile);
+					pw.printf("Complete - output file [%s]\n", outputFile.getAbsolutePath());
 				}
 			}
 		} catch (IllegalArgumentException ie) {
@@ -225,7 +227,48 @@ public class YoubikeKMLUI extends JPanel {
 		txLog.setText(sw.toString());
 	}
 	
-	public static void main(String[] args) throws Exception {
+	public static byte[] download(final String url, final String refer, final String postData) throws Exception {
+		URLConnection urlc = new URL(url).openConnection();
+		if (urlc instanceof HttpURLConnection) {
+			final HttpURLConnection hconn = (HttpURLConnection)urlc;
+			hconn.setRequestProperty("Referer", refer);
+			hconn.setInstanceFollowRedirects(true);
+			if (postData != null) {
+				hconn.setDoOutput(true);
+				try (final OutputStream out = hconn.getOutputStream()){
+					out.write(postData.getBytes());
+				}
+			}
+			final int stat = hconn.getResponseCode();
+			if (stat == HttpURLConnection.HTTP_MOVED_PERM || stat == HttpURLConnection.HTTP_MOVED_TEMP) {
+				final String location = hconn.getHeaderField("Location");
+				if (location.indexOf("//") == -1) {
+					urlc = new URL(new URL(url), location).openConnection();
+				} else {
+					urlc = new URL(location).openConnection();
+				}
+			}
+		}
+		try (final InputStream in = urlc.getInputStream()) {
+			return KMLSource.readAllBytes(in);
+		} catch (Exception e) {
+			byte[] result = null;
+			if (urlc instanceof HttpURLConnection) {
+				try (final InputStream err = ((HttpURLConnection)urlc).getErrorStream()) {
+					if (err != null) {
+						result = KMLSource.readAllBytes(err);
+					}
+				}
+			}
+			if (result == null) {
+				throw e;
+			} else {
+				return result;
+			}
+		}
+	}
+	
+	public static void main(final String[] args) throws Exception {
 		if (args.length == 0) {
 			//launch GUI
 			JFrame frame = new JFrame();
@@ -237,33 +280,64 @@ public class YoubikeKMLUI extends JPanel {
 			frame.setVisible(true);
 			return;
 		}
-		YoubikeKML youbikeKML = new YoubikeKML();
+		KMLSource kmlSource = null;
 		String inputFile = "youbike";
 		String outputFile = "youbike.kml";
+		Map<String, String> options = new HashMap<>();
+		boolean checkSamePoint = true;
 		for (int i = 0; i < args.length; i++) {
 			String arg = args[i].trim();
-			if ("-en".equals(arg)) {
-				youbikeKML.outputEnglish();
-			} else if (arg.startsWith("-h")) {
+			if (arg.startsWith("-h")) {
 				System.out.println("YoutubeKML - Convert Youbike open data to KML file");
 				System.out.println("  Command line options:");
-				System.out.println("-i [file] input file");
+				System.out.println("-i [file] input file, or folder with input files");
 				System.out.println("-o [file] output file(kml)");
+				System.out.println("-t [type] source type or qualified java class");
 				System.out.println("-h        print help");
-				System.out.println("-en       output English description in KML(May not work if input file is download from web page)");
+				System.out.println("-nocheck  Do NOT add if duplicate point exist (default:true)");
+				System.out.println("-en       output English description in KML(only work for youbike opendata)");
 				System.out.println("  GUI will start up if no command options.");
+				return;
 			} else {
 				String fn = (i+1)==args.length?null:args[i+1];
 				if ("-i".equals(arg)) {
 					inputFile = fn;
+					i++;
 				} else if ("-o".equals(arg)) {
 					outputFile = fn;
+					i++;
+				} else if ("-t".equals(arg)) {
+					final Optional<KMLSource> opt = KMLSourceFactory.newKMLSource(fn);
+					if (opt.isPresent()) {
+						kmlSource = opt.get();
+					} else {
+						System.out.printf("source type [%s] does not exist", fn);
+						return;
+					}
+					i++;
+				} else if ("-en".equals(arg)) {
+					options.put("en", "true");
+				} else if ("-nocheck".equals(arg)) {
+					checkSamePoint = false;
 				}
 			}
 		}
-		String jsonStr = youbikeKML.read(new File(inputFile));
-		youbikeKML.parse(jsonStr);
-		youbikeKML.write(new File(outputFile));
-			
+		final Iterable<Placemark> list;
+		final File f = new File(inputFile);
+		if (f.isDirectory()) {
+			final ArrayList<Placemark> alist = new ArrayList<>();
+			final KMLSource ks = kmlSource;
+			Stream.of(f.listFiles()).sorted(Comparator.comparing(File::lastModified)).forEach(file -> {
+				try {
+					alist.addAll(ks.parse(ks.read(file)));
+				} catch (Exception e) {
+					throw new RuntimeException(e);
+				}
+			});
+			list = alist;
+		} else {
+			list = kmlSource.parse(kmlSource.read(f));
+		}
+		new KMLWriter(kmlSource.getKMLName(), checkSamePoint).out(list).write(new File(outputFile));
 	}
 }
